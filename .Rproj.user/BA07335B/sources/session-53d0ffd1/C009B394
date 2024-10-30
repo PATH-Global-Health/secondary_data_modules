@@ -3,9 +3,9 @@
     "path": "C:/Users/asiraj/Box/Working/data_fellowship/secondary_data_modules/module_01.qmd",
     "project_path": "module_01.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "4223883140",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1730325567068.0,
     "source_on_save": false,
     "relative_order": 3,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "8576:3647.199951171875"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730325762,
+    "lastKnownWriteTime": 1730328312,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730325762089,
+    "last_content_update": 1730328312049,
     "read_only": false,
     "read_only_alternatives": []
 }
