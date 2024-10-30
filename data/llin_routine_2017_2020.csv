@@ -1,0 +1,1201 @@
+region,zone,district,year,llins_epi_u6m,llins_epi_611m,llins_epi_1223m,llins_epi_2459m,llins_epi,llins_anc1,llins_anc2,llins_anc
+Somali,Siti,Hadhagala,2018,210,2046,263,178,2700,3009,968,3977
+Somali,Siti,Hadhagala,2017,58,290,85,49,483,808,389,1197
+Somali,Siti,Hadhagala,2019,170,2466,237,77,2952,3687,735,4423
+Somali,Siti,Hadhagala,2020,168,2207,459,179,3016,3712,776,4489
+Somali,Erer,Lagahida,2018,0,647,63,50,761,927,73,1001
+Somali,Erer,Lagahida,2017,8,507,82,82,680,1022,54,1077
+Somali,Erer,Lagahida,2020,0,802,33,44,880,1156,92,1249
+Somali,Erer,Lagahida,2019,5,394,37,65,503,807,82,890
+Somali,Nogob,Sagag,2017,1,28,8,2,41,218,46,264
+Somali,Nogob,Sagag,2018,53,150,39,28,271,593,70,663
+Somali,Nogob,Sagag,2020,36,566,31,25,660,923,79,1003
+Somali,Nogob,Sagag,2019,61,205,58,43,368,816,57,873
+Somali,Afder,Hargele,2017,21,1935,48,14,2020,2260,312,2572
+Somali,Afder,Hargele,2018,9,2201,54,2,2267,2302,484,2786
+Somali,Afder,Hargele,2019,73,1586,59,13,1732,1685,221,1907
+Somali,Afder,Hargele,2020,146,2493,143,5,2789,3131,583,3714
+Somali,Korahe,Bodaley,2017,27,204,14,2,249,273,80,354
+Somali,Korahe,Bodaley,2018,34,276,26,1,338,384,11,395
+Somali,Korahe,Bodaley,2019,24,336,5,0,366,398,51,450
+Somali,Korahe,Bodaley,2020,5,348,0,0,353,444,62,506
+Somali,Doolo,Lehel-Yucub,2017,18,148,3,2,173,309,29,339
+Somali,Doolo,Lehel-Yucub,2018,4,436,1,0,443,763,37,801
+Somali,Doolo,Lehel-Yucub,2019,0,679,0,0,679,1064,27,1091
+Somali,Doolo,Lehel-Yucub,2020,0,769,0,0,769,1107,0,1107
+Somali,Fafan,Kebribeyah,2017,544,2969,358,148,4020,4926,1558,6484
+Somali,Fafan,Kebribeyah,2018,860,3383,345,193,4783,7019,1854,8874
+Somali,Fafan,Kebribeyah,2020,1624,5867,343,62,7897,8282,1587,9869
+Somali,Fafan,Kebribeyah,2019,428,1622,187,76,2314,4436,1023,5460
+Somali,Fafan,Aw-Bare,2017,78,3201,1478,193,4952,4117,5499,9617
+Somali,Fafan,Aw-Bare,2018,51,4119,914,17,5103,5449,4350,9799
+Somali,Fafan,Aw-Bare,2020,0,5785,17,6,5809,8595,419,9015
+Somali,Fafan,Aw-Bare,2019,20,5600,478,3,6102,8148,997,9146
+Somali,Korahe,Debeweyin,2017,74,2861,111,7,3055,3230,1183,4414
+Somali,Korahe,Debeweyin,2018,16,2704,19,1,2741,3452,901,4354
+Somali,Korahe,Debeweyin,2020,0,3192,219,0,3411,4199,407,4606
+Somali,Korahe,Debeweyin,2019,21,3413,90,0,3525,4083,725,4808
+Somali,Doolo,Danod,2017,526,1104,195,203,2030,2328,404,2732
+Somali,Doolo,Danod,2018,112,1947,7,1,2068,2726,240,2967
+Somali,Doolo,Danod,2020,29,2372,204,20,2626,2996,165,3162
+Somali,Doolo,Danod,2019,81,2294,41,71,2489,2788,193,2981
+Somali,Fafan,Gursum (SM),2018,9,948,0,0,957,1779,168,1947
+Somali,Fafan,Gursum (SM),2017,3,516,9,10,540,850,221,1071
+Somali,Fafan,Gursum (SM),2020,0,693,7,0,701,1336,86,1422
+Somali,Fafan,Gursum (SM),2019,0,938,4,0,943,1535,192,1728
+Somali,Korahe,El-Ogaden,2018,13,23,5,5,47,471,23,495
+Somali,Korahe,El-Ogaden,2017,18,98,14,17,150,535,24,560
+Somali,Korahe,El-Ogaden,2020,32,78,4,0,115,850,19,870
+Somali,Korahe,El-Ogaden,2019,41,53,11,10,116,635,29,664
+Somali,Fafan,Harawo,2017,122,2484,13,26,2646,4012,298,4310
+Somali,Fafan,Harawo,2018,0,3090,41,4,3136,4134,147,4282
+Somali,Fafan,Harawo,2019,4,3298,20,5,3328,4293,145,4439
+Somali,Fafan,Harawo,2020,8,2263,0,0,2271,3045,183,3229
+Somali,Daawa,Qada Duma,2017,4,1151,31,11,1198,938,38,976
+Somali,Daawa,Qada Duma,2018,0,1164,2,0,1166,1153,22,1175
+Somali,Daawa,Qada Duma,2020,14,1292,10,3,1320,1597,31,1628
+Somali,Daawa,Qada Duma,2019,8,641,3,0,653,840,8,848
+Somali,Afder,Barey,2017,119,1456,124,43,1742,3537,544,4081
+Somali,Afder,Barey,2018,42,2014,19,2,2079,3552,263,3815
+Somali,Afder,Barey,2019,34,1273,0,1,1309,2257,365,2622
+Somali,Afder,Barey,2020,0,2956,0,0,2957,4887,169,5056
+Somali,Jarar,Degahabur town,2018,0,1228,35,18,1283,1572,85,1658
+Somali,Jarar,Degahabur town,2017,18,1354,81,34,1488,1989,60,2049
+Somali,Jarar,Degahabur town,2020,5,1129,29,0,1164,1706,141,1847
+Somali,Jarar,Degahabur town,2019,4,1095,5,0,1106,1868,76,1944
+Somali,Fafan,Shabeeley,2018,5,836,15,1,858,1011,242,1254
+Somali,Fafan,Shabeeley,2017,3,1204,31,15,1254,1491,52,1543
+Somali,Fafan,Shabeeley,2020,4,2010,6,0,2021,1355,34,1389
+Somali,Fafan,Shabeeley,2019,11,619,7,1,640,856,58,915
+Somali,Fafan,Harshin,2018,8,2939,68,0,3016,4501,208,4710
+Somali,Fafan,Harshin,2017,32,3178,31,16,3260,5648,304,5953
+Somali,Fafan,Harshin,2019,0,2188,2,0,2191,3049,193,3242
+Somali,Fafan,Harshin,2020,67,3206,102,20,3396,4956,178,5134
+Somali,Fafan,Haroreys,2017,1,486,12,0,500,1038,336,1374
+Somali,Fafan,Haroreys,2018,3,759,4,15,782,1170,218,1389
+Somali,Fafan,Haroreys,2019,0,1024,0,0,1024,1239,244,1484
+Somali,Fafan,Haroreys,2020,0,1029,30,0,1060,1360,272,1633
+Somali,Afder,Kohle /Qoxle,2018,0,656,0,0,656,1115,43,1159
+Somali,Afder,Kohle /Qoxle,2017,8,643,25,7,686,866,203,1069
+Somali,Afder,Kohle /Qoxle,2019,0,524,0,0,524,791,47,839
+Somali,Afder,Kohle /Qoxle,2020,0,606,0,0,606,816,84,901
+Somali,Liben,Gura Damole,2018,7,396,3,3,410,790,125,915
+Somali,Liben,Gura Damole,2017,5,735,11,0,753,1241,105,1346
+Somali,Liben,Gura Damole,2020,51,1439,140,155,1786,2260,668,2929
+Somali,Liben,Gura Damole,2019,30,522,10,13,577,977,103,1080
+Somali,Fafan,Babile (SM),2018,0,1221,76,0,1298,1024,199,1224
+Somali,Fafan,Babile (SM),2017,7,1550,36,0,1595,1229,170,1400
+Somali,Fafan,Babile (SM),2020,11,1606,83,14,1716,1399,161,1561
+Somali,Fafan,Babile (SM),2019,15,684,12,7,719,879,82,961
+Somali,Jarar,Burqod,2017,46,72,23,22,164,299,199,499
+Somali,Jarar,Burqod,2018,184,305,93,53,636,763,326,1090
+Somali,Jarar,Burqod,2020,10,475,12,0,498,753,50,804
+Somali,Jarar,Burqod,2019,138,513,53,10,716,911,197,1109
+Somali,Erer,Hamero,2018,216,1934,246,72,2470,3730,301,4031
+Somali,Erer,Hamero,2017,81,1352,146,63,1643,2966,489,3455
+Somali,Erer,Hamero,2020,0,2617,0,0,2617,3562,203,3765
+Somali,Erer,Hamero,2019,25,2978,27,0,3031,4128,279,4408
+Somali,Shabelle,East Imi,2017,22,823,57,3,906,1504,488,1992
+Somali,Shabelle,East Imi,2018,46,1548,63,4,1662,2193,650,2844
+Somali,Shabelle,East Imi,2020,0,1353,7,16,1377,2312,1483,3796
+Somali,Shabelle,East Imi,2019,0,1448,73,9,1530,2369,521,2891
+Somali,Nogob,Elwayne,2017,68,129,42,86,326,578,361,940
+Somali,Nogob,Elwayne,2018,18,254,13,69,356,546,92,638
+Somali,Nogob,Elwayne,2020,0,519,0,0,519,726,141,867
+Somali,Nogob,Elwayne,2019,0,292,0,1,293,503,4,507
+Somali,Afder,Charati,2018,15,2753,343,87,3199,5106,1374,6481
+Somali,Afder,Charati,2017,45,1266,27,23,1363,3249,572,3822
+Somali,Afder,Charati,2020,0,4435,0,0,4435,7342,0,7342
+Somali,Afder,Charati,2019,0,3995,103,50,4149,6753,46,6800
+Somali,Jarar,Gunagado,2017,112,1859,15,4,1991,3114,312,3426
+Somali,Jarar,Gunagado,2018,73,2943,32,11,3060,3685,699,4385
+Somali,Jarar,Gunagado,2019,138,2187,69,4,2399,4400,1151,5551
+Somali,Jarar,Gunagado,2020,44,3848,67,5,3965,6802,1007,7810
+Somali,Doolo,Bokh,2018,85,1302,40,3,1430,3111,308,3419
+Somali,Doolo,Bokh,2017,24,261,2,1,290,1257,146,1404
+Somali,Doolo,Bokh,2019,0,4242,8,0,4251,7904,195,8099
+Somali,Doolo,Bokh,2020,0,5399,0,0,5399,8810,0,8810
+Somali,Korahe,Shaygosh,2018,4,789,22,0,816,1336,161,1498
+Somali,Korahe,Shaygosh,2017,10,116,6,2,136,340,62,403
+Somali,Korahe,Shaygosh,2019,0,1323,7,0,1330,1896,14,1910
+Somali,Korahe,Shaygosh,2020,0,1460,1,0,1462,1921,1,1922
+Oromia,East Hararge,Jarso (East Hararghe),2018,123,1651,420,247,2443,7763,160,7923
+Oromia,East Hararge,Jarso (East Hararghe),2017,288,2903,291,98,3582,7603,293,7896
+Oromia,East Hararge,Jarso (East Hararghe),2020,140,3797,149,73,4160,11760,185,11946
+Oromia,East Hararge,Jarso (East Hararghe),2019,171,3925,185,81,4363,10634,450,11084
+Oromia,Kelem Wellega,Dale Wabera,2018,33,5359,67,0,5460,5608,51,5660
+Oromia,Kelem Wellega,Dale Wabera,2017,6,4312,178,37,4536,4076,591,4667
+Oromia,Kelem Wellega,Dale Wabera,2020,0,4658,9,0,4668,5590,345,5935
+Oromia,Kelem Wellega,Dale Wabera,2019,3,5446,33,6,5489,6280,79,6360
+Oromia,Ilu Aba Bora,Becho (Ilu Aba Bora),2017,28,1225,65,0,1318,1377,217,1595
+Oromia,Ilu Aba Bora,Becho (Ilu Aba Bora),2018,14,1158,37,10,1221,1220,368,1589
+Oromia,Ilu Aba Bora,Becho (Ilu Aba Bora),2020,0,1827,51,7,1886,2150,103,2254
+Oromia,Ilu Aba Bora,Becho (Ilu Aba Bora),2019,0,1519,61,0,1580,1795,207,2003
+Oromia,West Shewa,Abuna Ginde Beret,2017,109,1727,77,8,1923,3614,576,4190
+Oromia,West Shewa,Abuna Ginde Beret,2018,85,1139,56,48,1329,2559,881,3441
+Oromia,West Shewa,Abuna Ginde Beret,2019,38,757,29,5,830,1995,407,2402
+Oromia,West Shewa,Abuna Ginde Beret,2020,12,3855,0,0,3867,5423,0,5423
+Oromia,Arsi,Golocha,2017,484,934,482,400,2301,2112,655,2767
+Oromia,Arsi,Golocha,2018,346,1277,216,111,1952,2069,336,2406
+Oromia,Arsi,Golocha,2019,166,848,89,26,1130,1772,210,1982
+Oromia,Arsi,Golocha,2020,13,1337,64,19,1434,2300,402,2702
+Oromia,Ilu Aba Bora,Metu town,2017,4,1846,9,0,1861,1787,20,1808
+Oromia,Ilu Aba Bora,Metu town,2018,0,1979,7,0,1987,1958,21,1980
+Oromia,Ilu Aba Bora,Metu town,2020,12,1270,12,0,1295,1738,53,1792
+Oromia,Ilu Aba Bora,Metu town,2019,0,1612,10,1,1625,2089,32,2121
+Oromia,North Shewa (OR),Gerar Jarso,2018,37,2224,142,79,2483,2871,169,3041
+Oromia,North Shewa (OR),Gerar Jarso,2017,37,1485,22,31,1577,2512,166,2679
+Oromia,North Shewa (OR),Gerar Jarso,2019,10,2151,51,3,2216,2997,227,3224
+Oromia,North Shewa (OR),Gerar Jarso,2020,67,3176,75,22,3341,3917,0,3917
+Oromia,Kelem Wellega,Gidami,2018,1137,1524,247,142,3051,3374,1322,4696
+Oromia,Kelem Wellega,Gidami,2017,906,938,172,112,2129,2055,772,2827
+Oromia,Kelem Wellega,Gidami,2019,212,2981,136,39,3369,3627,690,4317
+Oromia,Kelem Wellega,Gidami,2020,16,3015,0,0,3032,3817,402,4220
+Oromia,West Hararge,Kuni /Oda Bultum,2017,954,3915,205,99,5175,6801,395,7197
+Oromia,West Hararge,Kuni /Oda Bultum,2018,139,5438,87,44,5709,7181,1043,8225
+Oromia,West Hararge,Kuni /Oda Bultum,2019,7,7680,89,0,7777,9456,1651,11108
+Oromia,West Hararge,Kuni /Oda Bultum,2020,19,6426,0,0,6446,8520,2369,10890
+Oromia,East Hararge,Golo Oda,2018,148,3010,15,6,3180,5055,184,5239
+Oromia,East Hararge,Golo Oda,2017,120,1290,8,2,1422,2650,226,2876
+Oromia,East Hararge,Golo Oda,2020,0,5561,0,0,5561,6292,0,6292
+Oromia,East Hararge,Golo Oda,2019,48,5094,21,4,5168,6528,149,6678
+Oromia,East Wellega,Bila Seyo,2018,42,1263,53,0,1360,1757,784,2541
+Oromia,East Wellega,Bila Seyo,2017,257,1458,48,15,1779,1929,555,2485
+Oromia,East Wellega,Bila Seyo,2019,12,1818,60,21,1911,2419,995,3414
+Oromia,East Wellega,Bila Seyo,2020,8,1241,52,9,1312,1747,594,2341
+Oromia,West Arsi,Siraro,2017,353,814,111,3,1282,5716,1659,7375
+Oromia,West Arsi,Siraro,2018,115,2143,320,208,2788,10120,3381,13501
+Oromia,West Arsi,Siraro,2020,34,1708,181,15,1939,10694,973,11667
+Oromia,West Arsi,Siraro,2019,153,2931,340,247,3672,8873,1485,10359
+Oromia,West Wellega,Haru,2017,30,1666,32,13,1742,1675,47,1722
+Oromia,West Wellega,Haru,2018,16,1951,29,18,2016,1990,217,2208
+Oromia,West Wellega,Haru,2019,13,1585,23,7,1630,1460,114,1574
+Oromia,West Wellega,Haru,2020,35,2963,4,10,3013,3444,215,3660
+Oromia,West Wellega,Lalo Asabi,2018,35,1658,141,15,1851,2528,1192,3720
+Oromia,West Wellega,Lalo Asabi,2017,78,1638,231,25,1974,2009,1570,3579
+Oromia,West Wellega,Lalo Asabi,2020,26,2889,139,3,3059,3932,781,4714
+Oromia,West Wellega,Lalo Asabi,2019,20,1570,125,13,1729,2625,985,3611
+Oromia,Arsi,Inkolo Wabe,2018,0,1915,18,4,1937,2044,397,2441
+Oromia,Arsi,Inkolo Wabe,2017,5,1564,32,0,1602,2542,270,2812
+Oromia,Arsi,Inkolo Wabe,2019,0,801,4,0,805,1285,394,1679
+Oromia,Arsi,Inkolo Wabe,2020,0,2428,3,0,2431,3535,210,3745
+Oromia,West Hararge,Mesela,2018,218,4588,15,0,4821,7735,1227,8962
+Oromia,West Hararge,Mesela,2017,327,4479,44,18,4870,8384,1299,9684
+Oromia,West Hararge,Mesela,2019,70,7306,55,5,7437,9058,1238,10296
+Oromia,West Hararge,Mesela,2020,0,6592,0,0,6592,10507,1388,11896
+Oromia,East Shewa,Dugda,2018,940,3914,404,0,5259,8382,551,8933
+Oromia,East Shewa,Dugda,2017,396,2654,315,61,3428,6532,833,7366
+Oromia,East Shewa,Dugda,2019,272,4814,27,0,5114,8131,417,8549
+Oromia,East Shewa,Dugda,2020,0,6102,49,0,6152,8556,91,8647
+Oromia,West Hararge,Bedesa,2018,359,446,81,99,987,1010,342,1352
+Oromia,West Hararge,Bedesa,2017,283,201,51,34,572,711,377,1089
+Oromia,West Hararge,Bedesa,2020,0,766,0,0,766,1114,391,1506
+Oromia,West Hararge,Bedesa,2019,0,566,22,0,589,875,56,931
+Oromia,West Shewa,Bako Tibe,2017,384,4925,444,305,6060,7496,271,7768
+Oromia,West Shewa,Bako Tibe,2018,531,2141,250,227,3150,5676,370,6046
+Oromia,West Shewa,Bako Tibe,2020,1268,2453,77,28,3827,7475,809,8285
+Oromia,West Shewa,Bako Tibe,2019,61,1686,56,75,1879,5946,277,6224
+Oromia,West Hararge,Anchar,2018,942,1443,473,449,3308,3266,601,3868
+Oromia,West Hararge,Anchar,2017,1604,2289,1518,1976,7390,4109,1825,5934
+Oromia,West Hararge,Anchar,2020,87,2730,82,74,2975,5470,608,6079
+Oromia,West Hararge,Anchar,2019,194,2712,100,215,3223,5030,519,5550
+Oromia,Jimma,Jimma town,2018,331,4083,113,14,4544,6957,1142,8100
+Oromia,Jimma,Jimma town,2017,66,5339,104,0,5511,8429,1085,9515
+Oromia,Jimma,Jimma town,2019,6,6496,199,0,6703,9583,522,10106
+Oromia,Jimma,Jimma town,2020,0,6705,95,0,6801,9096,1108,10205
+Oromia,Kelem Wellega,Anfilo,2017,18,2542,133,25,2718,2917,1051,3969
+Oromia,Kelem Wellega,Anfilo,2018,0,1477,102,6,1586,2324,234,2558
+Oromia,Kelem Wellega,Anfilo,2020,0,3086,0,0,3086,3606,1163,4770
+Oromia,Kelem Wellega,Anfilo,2019,0,1937,8,0,1945,2319,52,2372
+Oromia,East Hararge,Girawa,2017,3870,4306,1926,4949,15053,10636,2903,13539
+Oromia,East Hararge,Girawa,2018,1573,5951,956,3560,12042,10742,1338,12080
+Oromia,East Hararge,Girawa,2020,36,7901,0,0,7938,14183,2376,16559
+Oromia,East Hararge,Girawa,2019,0,8742,0,0,8742,14402,69,14471
+Oromia,South West Shewa,Sodo Daci,2018,116,1356,49,27,1550,2241,92,2334
+Oromia,South West Shewa,Sodo Daci,2017,84,638,23,11,758,1105,97,1203
+Oromia,South West Shewa,Sodo Daci,2019,22,1991,0,0,2013,2637,61,2698
+Oromia,South West Shewa,Sodo Daci,2020,3,2337,2,0,2344,2981,0,2981
+Oromia,Bale,Berbere,2018,2,3440,29,87,3561,5295,151,5447
+Oromia,Bale,Berbere,2017,311,1868,127,39,2347,3837,241,4079
+Oromia,Bale,Berbere,2019,1,3668,1,21,3692,5049,269,5319
+Oromia,Bale,Berbere,2020,0,3984,0,0,3984,4981,54,5036
+Oromia,East Shewa,Bora (OR),2018,24,1163,38,3,1230,1725,413,2138
+Oromia,East Shewa,Bora (OR),2017,62,1846,10,17,1937,2571,273,2845
+Oromia,East Shewa,Bora (OR),2020,18,1054,39,4,1116,1525,326,1852
+Oromia,East Shewa,Bora (OR),2019,55,1725,46,13,1840,2219,313,2532
+Oromia,West Wellega,Gaji,2017,49,873,65,14,1003,1584,417,2002
+Oromia,West Wellega,Gaji,2018,67,1213,43,20,1344,1852,490,2342
+Oromia,West Wellega,Gaji,2020,24,2160,16,4,2205,2548,270,2818
+Oromia,West Wellega,Gaji,2019,76,1599,124,98,1898,2088,224,2312
+Oromia,Buno Bedele,Gechi,2017,332,2004,244,222,2804,2563,501,3065
+Oromia,Buno Bedele,Gechi,2018,112,1841,128,104,2187,1780,385,2165
+Oromia,Buno Bedele,Gechi,2020,47,2545,17,0,2610,3148,711,3859
+Oromia,Buno Bedele,Gechi,2019,43,2768,115,17,2943,2961,28,2990
+Oromia,South West Shewa,Wenchi,2018,5,3995,131,28,4161,4697,179,4877
+Oromia,South West Shewa,Wenchi,2017,23,2272,22,39,2357,3513,110,3623
+Oromia,South West Shewa,Wenchi,2019,2,3209,85,4,3301,3905,204,4110
+Oromia,South West Shewa,Wenchi,2020,7,4440,100,15,4563,5134,249,5383
+Oromia,Ilu Aba Bora,Bilo Nopha,2017,126,753,85,89,1055,1207,367,1575
+Oromia,Ilu Aba Bora,Bilo Nopha,2018,32,733,44,13,824,1051,315,1366
+Oromia,Ilu Aba Bora,Bilo Nopha,2020,9,987,17,4,1018,1316,201,1518
+Oromia,Ilu Aba Bora,Bilo Nopha,2019,29,942,33,17,1022,1257,283,1540
+Oromia,South West Shewa,Ilu,2018,2,1507,8,3,1521,1925,141,2066
+Oromia,South West Shewa,Ilu,2017,5,1952,21,0,1980,4077,216,4293
+Oromia,South West Shewa,Ilu,2020,1,1813,2,38,1855,1774,53,1827
+Oromia,South West Shewa,Ilu,2019,6,1979,58,0,2045,1819,16,1836
+Oromia,Kelem Wellega,Sedi Chenka,2018,984,74,5,8,1072,1427,186,1614
+Oromia,Kelem Wellega,Sedi Chenka,2017,1330,147,17,93,1588,1863,606,2469
+Oromia,Kelem Wellega,Sedi Chenka,2020,4,2063,0,0,2068,2649,103,2753
+Oromia,Kelem Wellega,Sedi Chenka,2019,0,1564,8,0,1573,2353,5,2358
+Oromia,Borena,Wachile,2017,3,160,0,0,164,300,7,308
+Oromia,Borena,Wachile,2018,3,356,4,3,368,569,48,618
+Oromia,Borena,Wachile,2020,4,474,8,0,487,714,65,780
+Oromia,Borena,Wachile,2019,4,678,6,1,690,997,53,1051
+Oromia,East Shewa,Adama Tulu Jido Kombolcha,2017,172,3298,349,135,3956,5588,838,6426
+Oromia,East Shewa,Adama Tulu Jido Kombolcha,2018,77,2341,99,49,2567,4548,746,5295
+Oromia,East Shewa,Adama Tulu Jido Kombolcha,2019,1006,1874,75,3,2959,3251,530,3781
+Oromia,East Shewa,Adama Tulu Jido Kombolcha,2020,68,2259,56,2,2387,4478,548,5026
+Oromia,West Guji,Bule Hora,2018,212,5453,148,66,5881,8607,461,9068
+Oromia,West Guji,Bule Hora,2017,911,4526,746,662,6846,8823,1601,10425
+Oromia,West Guji,Bule Hora,2019,167,8054,478,109,8809,10818,345,11164
+Oromia,West Guji,Bule Hora,2020,41,7257,105,38,7443,10926,159,11086
+Oromia,West Shewa,Cheliya,2018,0,3701,203,50,3955,5134,473,5608
+Oromia,West Shewa,Cheliya,2017,26,4397,56,50,4531,4695,87,4783
+Oromia,West Shewa,Cheliya,2019,0,2247,71,25,2344,3796,371,4167
+Oromia,West Shewa,Cheliya,2020,19,12420,213,14,12668,6743,470,7214
+Oromia,West Wellega,Nejo town,2018,69,827,3,1,901,1006,98,1105
+Oromia,West Wellega,Nejo town,2017,315,763,22,3,1104,1324,273,1598
+Oromia,West Wellega,Nejo town,2019,0,674,2,0,677,828,4,832
+Oromia,West Wellega,Nejo town,2020,0,1280,0,0,1280,1588,293,1881
+Oromia,Arsi,Merti,2017,1387,1723,165,91,3368,2919,2353,5272
+Oromia,Arsi,Merti,2018,556,2079,39,0,2675,2501,267,2768
+Oromia,Arsi,Merti,2019,0,1909,4,0,1913,2180,36,2217
+Oromia,Arsi,Merti,2020,47,3949,0,0,3997,3833,1316,5149
+Oromia,East Hararge,Haro Maya,2017,3515,5232,4659,6229,19636,6038,3607,9645
+Oromia,East Hararge,Haro Maya,2018,3240,5182,3992,5086,17501,8019,3212,11231
+Oromia,East Hararge,Haro Maya,2020,425,5774,87,46,6334,8292,331,8624
+Oromia,East Hararge,Haro Maya,2019,661,6748,195,362,7969,8629,490,9119
+Oromia,West Shewa,Dendi,2017,245,6675,164,24,7110,11125,370,11495
+Oromia,West Shewa,Dendi,2018,690,8542,302,126,9661,11540,158,11698
+Oromia,West Shewa,Dendi,2020,115,9146,107,0,9369,12372,245,12618
+Oromia,West Shewa,Dendi,2019,222,10155,289,87,10754,12515,132,12647
+Oromia,West Wellega,Leta Sibu,2018,0,303,7,0,310,488,120,609
+Oromia,West Wellega,Leta Sibu,2017,3,402,88,4,498,378,233,611
+Oromia,West Wellega,Leta Sibu,2019,0,233,0,0,233,396,25,421
+Oromia,West Wellega,Leta Sibu,2020,0,414,1,0,415,575,107,683
+Oromia,Buno Bedele,Chora (Buno Bedele),2018,343,13753,66,1916,16079,31040,2968,34009
+Oromia,Buno Bedele,Chora (Buno Bedele),2017,332,14178,221,557,15289,24944,3311,28256
+Oromia,Buno Bedele,Chora (Buno Bedele),2019,107,19963,103,29,20203,29393,3814,33207
+Oromia,Buno Bedele,Chora (Buno Bedele),2020,0,21134,0,0,21134,32956,2806,35762
+Oromia,West Shewa,Ambo town,2017,89,606,25,4,727,1885,331,2217
+Oromia,West Shewa,Ambo town,2018,61,789,9,22,882,3025,358,3383
+Oromia,West Shewa,Ambo town,2019,58,2280,11,0,2349,3497,126,3623
+Oromia,West Shewa,Ambo town,2020,1,2536,0,3,2541,3195,401,3597
+Oromia,Buno Bedele,Dega,2018,0,786,26,8,821,1802,113,1916
+Oromia,Buno Bedele,Dega,2017,57,1016,52,27,1154,2010,276,2287
+Oromia,Buno Bedele,Dega,2020,51,1299,39,17,1408,2015,197,2213
+Oromia,Buno Bedele,Dega,2019,0,566,35,5,606,1145,148,1293
+Oromia,Arsi,Chole,2017,254,2803,156,95,3309,4165,753,4918
+Oromia,Arsi,Chole,2018,223,4845,150,372,5592,4859,415,5274
+Oromia,Arsi,Chole,2020,0,4759,50,0,4810,5392,5,5397
+Oromia,Arsi,Chole,2019,0,4400,45,0,4446,5045,201,5247
+Oromia,West Wellega,Mana Sibu,2017,72,1472,82,24,1652,1585,1199,2785
+Oromia,West Wellega,Mana Sibu,2018,128,1877,34,59,2100,1892,1393,3285
+Oromia,West Wellega,Mana Sibu,2020,31,1497,41,62,1632,2137,1980,4117
+Oromia,West Wellega,Mana Sibu,2019,84,2124,174,72,2456,2107,2410,4518
+Oromia,North Shewa (OR),Wara Jarso,2017,5,2861,11,0,2878,2650,134,2784
+Oromia,North Shewa (OR),Wara Jarso,2018,34,4258,25,11,4330,3212,152,3365
+Oromia,North Shewa (OR),Wara Jarso,2020,0,3182,12,0,3195,2839,154,2994
+Oromia,North Shewa (OR),Wara Jarso,2019,0,2676,4,0,2681,2398,283,2681
+Oromia,West Guji,Suro Berguda,2017,2,996,73,11,1083,1077,482,1560
+Oromia,West Guji,Suro Berguda,2018,0,956,27,0,984,1227,199,1427
+Oromia,West Guji,Suro Berguda,2020,0,1323,0,0,1323,1438,165,1603
+Oromia,West Guji,Suro Berguda,2019,0,1029,9,1,1040,1204,148,1353
+Oromia,Arsi,Jeju,2017,1926,1600,914,407,4848,4903,1397,6301
+Oromia,Arsi,Jeju,2018,2377,2206,1367,1033,6984,4188,2869,7057
+Oromia,Arsi,Jeju,2019,0,5159,3,5,5167,5962,8,5971
+Oromia,Arsi,Jeju,2020,0,4262,0,0,4262,4058,1233,5291
+Oromia,West Wellega,Gimbi town,2018,16,1150,9,5,1182,1724,179,1903
+Oromia,West Wellega,Gimbi town,2017,15,1318,8,32,1374,1231,947,2178
+Oromia,West Wellega,Gimbi town,2020,3,1420,5,5,1434,2381,925,3307
+Oromia,West Wellega,Gimbi town,2019,0,514,1,0,515,1280,92,1372
+Oromia,West Guji,Dugda Dawa,2018,23,2783,49,4,2861,2776,370,3147
+Oromia,West Guji,Dugda Dawa,2017,65,2543,26,0,2635,2513,182,2696
+Oromia,West Guji,Dugda Dawa,2019,52,3054,44,13,3163,2450,232,2682
+Oromia,West Guji,Dugda Dawa,2020,37,1983,53,4,2080,1780,391,2172
+Oromia,West Hararge,Doba,2018,60,1904,61,1,2027,2907,241,3148
+Oromia,West Hararge,Doba,2017,0,1627,84,4,1715,2575,761,3337
+Oromia,West Hararge,Doba,2020,8,2513,195,0,2718,3563,462,4026
+Oromia,West Hararge,Doba,2019,106,1687,33,0,1827,2767,349,3117
+Oromia,Jimma,Gera,2018,25,4494,71,0,4591,5669,592,6262
+Oromia,Jimma,Gera,2017,290,3311,223,34,3860,4848,801,5649
+Oromia,Jimma,Gera,2019,64,4482,58,0,4606,5725,118,5843
+Oromia,Jimma,Gera,2020,0,4440,215,0,4656,5136,520,5657
+Oromia,East Bale,Dawe Ketchen,2018,347,1330,467,21,2167,2756,688,3445
+Oromia,East Bale,Dawe Ketchen,2017,364,977,187,116,1645,2740,814,3554
+Oromia,East Bale,Dawe Ketchen,2019,1157,2354,308,141,3961,3207,488,3696
+Oromia,East Bale,Dawe Ketchen,2020,177,2704,55,13,2950,4246,560,4807
+Oromia,Jimma,Limu Seka,2018,15,5048,42,41,5147,6157,1934,8091
+Oromia,Jimma,Limu Seka,2017,24,2588,75,0,2688,5477,940,6417
+Oromia,Jimma,Limu Seka,2020,14,7618,544,0,8176,10608,1712,12320
+Oromia,Jimma,Limu Seka,2019,38,2793,104,19,2955,6167,471,6638
+Oromia,Arsi,Robe,2018,27,8522,46,9,8606,10510,734,11244
+Oromia,Arsi,Robe,2017,124,8146,124,75,8471,9850,406,10257
+Oromia,Arsi,Robe,2020,2,7085,0,22,7110,9755,0,9755
+Oromia,Arsi,Robe,2019,27,6251,0,0,6279,9528,72,9601
+Oromia,North Shewa (OR),Debre Libanos,2018,51,1401,37,15,1506,2988,187,3175
+Oromia,North Shewa (OR),Debre Libanos,2017,54,1404,74,18,1551,2683,270,2953
+Oromia,North Shewa (OR),Debre Libanos,2020,11,1289,12,2,1314,2469,39,2509
+Oromia,North Shewa (OR),Debre Libanos,2019,9,1686,60,2,1758,2807,82,2889
+Oromia,West Shewa,Ambo Zuria,2017,1703,1058,499,362,3623,2949,799,3748
+Oromia,West Shewa,Ambo Zuria,2018,1105,1213,1013,1645,4977,3894,644,4539
+Oromia,West Shewa,Ambo Zuria,2020,0,3796,0,0,3796,5139,765,5905
+Oromia,West Shewa,Ambo Zuria,2019,0,2950,0,0,2950,4220,26,4246
+Oromia,Kelem Wellega,Yama Logi Welel,2017,26,498,44,13,583,2198,116,2314
+Oromia,Kelem Wellega,Yama Logi Welel,2018,3,218,47,10,280,1822,159,1982
+Oromia,Kelem Wellega,Yama Logi Welel,2019,0,502,44,17,564,2008,159,2168
+Oromia,Kelem Wellega,Yama Logi Welel,2020,6,449,38,27,521,2043,170,2213
+Oromia,West Arsi,Shashemene Zuria,2018,349,8694,269,78,9390,11054,510,11565
+Oromia,West Arsi,Shashemene Zuria,2017,439,6383,359,95,7277,9518,819,10337
+Oromia,West Arsi,Shashemene Zuria,2019,27,11233,11,10,11282,12813,69,12883
+Oromia,West Arsi,Shashemene Zuria,2020,59,9361,214,40,9676,12703,3,12706
+Oromia,West Hararge,Gumbi Bordede,2018,0,1821,27,0,1849,1938,517,2455
+Oromia,West Hararge,Gumbi Bordede,2017,80,2014,13,0,2108,2799,257,3056
+Oromia,West Hararge,Gumbi Bordede,2019,36,1652,31,3,1724,2353,182,2536
+Oromia,West Hararge,Gumbi Bordede,2020,23,2599,18,0,2641,3211,355,3567
+Oromia,South West Shewa,Goro (SW Shewa),2018,5,667,10,0,682,901,68,970
+Oromia,South West Shewa,Goro (SW Shewa),2017,3,517,12,7,541,648,77,725
+Oromia,South West Shewa,Goro (SW Shewa),2019,1,833,8,1,844,927,44,972
+Oromia,South West Shewa,Goro (SW Shewa),2020,0,626,3,0,629,776,80,856
+Oromia,North Shewa (OR),Wuchale,2017,14,892,15,16,939,2028,105,2134
+Oromia,North Shewa (OR),Wuchale,2018,36,1220,15,0,1272,2771,371,3143
+Oromia,North Shewa (OR),Wuchale,2020,4,1520,39,24,1589,2597,503,3101
+Oromia,North Shewa (OR),Wuchale,2019,35,2374,152,64,2627,4585,458,5044
+Oromia,Guji,Adola,2017,310,2614,180,87,3192,6153,826,6979
+Oromia,Guji,Adola,2018,234,4000,299,46,4581,7737,512,8250
+Oromia,Guji,Adola,2020,93,2901,100,55,3151,7969,240,8209
+Oromia,Guji,Adola,2019,12,2747,116,9,2885,6794,252,7046
+Oromia,Arsi,Tiyo,2017,221,1770,209,182,2383,3987,669,4657
+Oromia,Arsi,Tiyo,2018,50,1160,159,298,1668,3485,717,4203
+Oromia,Arsi,Tiyo,2020,0,4822,0,0,4822,5559,1725,7284
+Oromia,Arsi,Tiyo,2019,0,4013,0,0,4013,5678,2,5680
+Oromia,Borena,Yabelo,2017,8,824,5,0,839,991,127,1118
+Oromia,Borena,Yabelo,2018,0,719,0,0,720,1064,18,1083
+Oromia,Borena,Yabelo,2020,0,660,3,0,663,860,217,1077
+Oromia,Borena,Yabelo,2019,0,520,0,0,520,690,11,701
+Oromia,Jimma,Dedo,2018,97,8254,746,97,9194,17375,5463,22839
+Oromia,Jimma,Dedo,2017,402,4845,207,224,5680,12240,4676,16916
+Oromia,Jimma,Dedo,2019,49,5946,58,21,6075,11922,2535,14457
+Oromia,Jimma,Dedo,2020,45,10135,121,62,10365,16899,2024,18924
+Oromia,West Arsi,Arsi Negele,2018,140,857,46,1,1046,1782,398,2180
+Oromia,West Arsi,Arsi Negele,2017,102,971,38,0,1113,1760,162,1923
+Oromia,West Arsi,Arsi Negele,2020,79,955,25,5,1066,2421,282,2703
+Oromia,West Arsi,Arsi Negele,2019,54,1401,18,0,1474,2181,456,2638
+Oromia,West Hararge,Gemechis,2017,8,3145,27,8,3189,3931,57,3988
+Oromia,West Hararge,Gemechis,2018,0,2656,34,0,2690,3497,353,3851
+Oromia,West Hararge,Gemechis,2019,0,1905,0,0,1905,3165,160,3326
+Oromia,West Hararge,Gemechis,2020,0,4585,21,3,4610,5587,336,5924
+Oromia,Jimma,Mena (Jimma),2018,0,5633,0,0,5633,8034,573,8608
+Oromia,Jimma,Mena (Jimma),2017,87,4932,29,0,5049,6671,1055,7727
+Oromia,Jimma,Mena (Jimma),2020,0,5643,66,0,5710,8193,358,8551
+Oromia,Jimma,Mena (Jimma),2019,0,6396,7,4,6408,8245,356,8602
+Oromia,Jimma,Agaro town,2018,240,658,26,21,946,1519,377,1897
+Oromia,Jimma,Agaro town,2017,337,512,53,43,946,1149,431,1581
+Oromia,Jimma,Agaro town,2019,0,1182,3,0,1185,1585,4,1590
+Oromia,Jimma,Agaro town,2020,0,1740,0,0,1740,1998,614,2612
+Oromia,Arsi,Sire,2017,423,825,464,602,2315,3341,1228,4569
+Oromia,Arsi,Sire,2018,520,1865,1031,1759,5177,3501,436,3938
+Oromia,Arsi,Sire,2019,0,2834,0,0,2834,3398,0,3398
+Oromia,Arsi,Sire,2020,10,2686,0,0,2697,2693,441,3134
+Oromia,West Wellega,Gudetu Kondole,2017,47,793,25,8,874,1587,237,1825
+Oromia,West Wellega,Gudetu Kondole,2018,478,1358,13,4,1855,2950,255,3206
+Oromia,West Wellega,Gudetu Kondole,2019,2,4775,1,0,4780,3475,197,3673
+Oromia,West Wellega,Gudetu Kondole,2020,0,2875,4,0,2880,2805,254,3060
+Oromia,Guji,Aga Wayu,2018,0,451,37,2,492,628,208,836
+Oromia,Guji,Aga Wayu,2017,11,391,30,2,436,751,108,860
+Oromia,Guji,Aga Wayu,2020,4,449,42,5,502,677,91,769
+Oromia,Guji,Aga Wayu,2019,0,522,57,0,581,766,103,870
+Oromia,Guji,Uraga,2018,398,4896,76,48,5420,9053,278,9332
+Oromia,Guji,Uraga,2017,327,6110,325,75,6838,10444,1459,11903
+Oromia,Guji,Uraga,2019,145,2833,128,2,3109,5807,1621,7428
+Oromia,Guji,Uraga,2020,80,5525,0,0,5606,8879,621,9500
+Oromia,Horo Gudru Wellega,Jarte Jardega,2018,5,2258,0,0,2264,2528,89,2617
+Oromia,Horo Gudru Wellega,Jarte Jardega,2017,198,1841,19,28,2088,2311,581,2892
+Oromia,Horo Gudru Wellega,Jarte Jardega,2019,8,1993,3,31,2036,2303,35,2339
+Oromia,Horo Gudru Wellega,Jarte Jardega,2020,0,1067,5,0,1073,1580,110,1691
+Oromia,East Shewa,Gimbichu,2017,195,2292,87,0,2575,4767,830,5597
+Oromia,East Shewa,Gimbichu,2018,214,2844,111,0,3171,5538,685,6224
+Oromia,East Shewa,Gimbichu,2019,20,3333,58,0,3412,5241,968,6209
+Oromia,East Shewa,Gimbichu,2020,0,3795,0,0,3795,5330,882,6212
+Oromia,East Hararge,Aweday town,2018,0,366,0,0,366,405,42,448
+Oromia,East Hararge,Aweday town,2017,8,461,0,0,470,520,27,547
+Oromia,East Hararge,Aweday town,2019,2,255,3,0,261,307,43,351
+Oromia,East Hararge,Aweday town,2020,16,493,5,0,515,582,16,598
+Oromia,Finfine Special,Sebeta town,2018,105,3357,111,0,3575,4997,794,5791
+Oromia,Finfine Special,Sebeta town,2017,16,2663,155,10,2845,4413,874,5288
+Oromia,Finfine Special,Sebeta town,2019,0,4199,41,16,4257,5456,563,6020
+Oromia,Finfine Special,Sebeta town,2020,0,3898,9,0,3908,5176,194,5371
+Oromia,Horo Gudru Wellega,Guduru,2017,616,692,830,1564,3703,1536,470,2007
+Oromia,Horo Gudru Wellega,Guduru,2018,1101,1402,1554,1998,6057,1573,364,1937
+Oromia,Horo Gudru Wellega,Guduru,2019,0,1603,0,0,1603,2402,0,2403
+Oromia,Horo Gudru Wellega,Guduru,2020,0,1077,4,1,1083,1846,159,2006
+South West Ethiopia,Kefa,Wacha,2017,8,793,8,8,819,1302,24,1326
+South West Ethiopia,Kefa,Wacha,2018,0,829,3,3,835,1345,74,1419
+South West Ethiopia,Kefa,Wacha,2019,2,1027,7,0,1038,1249,34,1283
+South West Ethiopia,Kefa,Wacha,2020,2,933,9,0,945,1252,50,1302
+South West Ethiopia,Sheka,Yeki,2018,344,3463,221,207,4235,6176,1642,7818
+South West Ethiopia,Sheka,Yeki,2017,840,4337,202,123,5503,7354,1550,8905
+South West Ethiopia,Sheka,Yeki,2020,657,3985,156,240,5039,7302,892,8194
+South West Ethiopia,Sheka,Yeki,2019,435,3296,182,106,4020,6943,1290,8233
+South West Ethiopia,Bench Sheko,Debub Bench,2017,92,3837,0,0,3930,4242,774,5016
+South West Ethiopia,Bench Sheko,Debub Bench,2018,282,5258,473,486,6501,5407,261,5668
+South West Ethiopia,Bench Sheko,Debub Bench,2019,0,4245,37,0,4282,4846,614,5461
+South West Ethiopia,Bench Sheko,Debub Bench,2020,0,4392,0,0,4392,5542,313,5856
+South West Ethiopia,Mirab Omo,Menit Shasha,2017,49,771,48,20,888,1246,201,1447
+South West Ethiopia,Mirab Omo,Menit Shasha,2018,21,894,22,9,947,1238,233,1471
+South West Ethiopia,Mirab Omo,Menit Shasha,2020,0,743,4,3,751,1240,316,1557
+South West Ethiopia,Mirab Omo,Menit Shasha,2019,54,858,48,101,1063,1352,56,1409
+South West Ethiopia,Bench Sheko,Mizan Aman town,2017,219,522,39,6,788,1489,309,1799
+South West Ethiopia,Bench Sheko,Mizan Aman town,2018,131,1185,139,9,1465,2147,271,2418
+South West Ethiopia,Bench Sheko,Mizan Aman town,2019,49,2057,64,9,2180,2997,80,3077
+South West Ethiopia,Bench Sheko,Mizan Aman town,2020,0,2360,0,0,2360,3621,0,3621
+South West Ethiopia,Kefa,Bita,2018,201,2531,8,0,2741,3951,588,4540
+South West Ethiopia,Kefa,Bita,2017,89,1247,73,81,1491,2094,381,2475
+South West Ethiopia,Kefa,Bita,2020,0,3846,0,21,3868,5006,255,5262
+South West Ethiopia,Kefa,Bita,2019,20,3277,12,0,3310,4319,79,4399
+South West Ethiopia,Dawuro,Tercha town,2018,210,487,1,0,699,857,59,916
+South West Ethiopia,Dawuro,Tercha town,2017,200,263,10,1,475,747,125,872
+South West Ethiopia,Dawuro,Tercha town,2019,50,622,0,0,672,859,71,931
+South West Ethiopia,Dawuro,Tercha town,2020,0,668,0,0,668,889,64,954
+South West Ethiopia,Bench Sheko,Size town,2017,7,443,8,2,461,630,170,800
+South West Ethiopia,Bench Sheko,Size town,2018,3,742,1,0,748,870,37,907
+South West Ethiopia,Bench Sheko,Size town,2019,7,735,3,0,745,946,44,991
+South West Ethiopia,Bench Sheko,Size town,2020,0,675,0,0,675,796,128,924
+South West Ethiopia,Kefa,Chena,2017,2775,2805,205,89,5876,6335,653,6989
+South West Ethiopia,Kefa,Chena,2018,1092,1711,212,4,3021,4246,602,4849
+South West Ethiopia,Kefa,Chena,2020,692,1858,384,105,3040,4363,731,5095
+South West Ethiopia,Kefa,Chena,2019,683,1563,323,20,2591,3999,514,4513
+South West Ethiopia,Mirab Omo,Maji,2018,364,460,114,43,982,677,150,828
+South West Ethiopia,Mirab Omo,Maji,2017,118,323,68,24,535,550,223,773
+South West Ethiopia,Mirab Omo,Maji,2020,3,550,0,0,553,752,180,932
+South West Ethiopia,Mirab Omo,Maji,2019,29,490,10,1,530,631,182,814
+South West Ethiopia,Mirab Omo,Menit Goldiye,2018,47,3010,164,23,3245,4981,699,5680
+South West Ethiopia,Mirab Omo,Menit Goldiye,2017,147,2429,112,2,2692,3342,801,4143
+South West Ethiopia,Mirab Omo,Menit Goldiye,2019,8,2443,227,60,2739,4661,765,5427
+South West Ethiopia,Mirab Omo,Menit Goldiye,2020,0,1936,271,12,2219,3473,566,4040
+South West Ethiopia,Dawuro,Gena,2017,57,870,8,0,936,1698,273,1971
+South West Ethiopia,Dawuro,Gena,2018,6,863,1,0,872,1323,167,1491
+South West Ethiopia,Dawuro,Gena,2020,0,2828,0,0,2828,4270,343,4614
+South West Ethiopia,Dawuro,Gena,2019,0,705,0,0,705,1016,264,1280
+South West Ethiopia,Mirab Omo,Surma,2018,61,109,5,0,176,438,69,507
+South West Ethiopia,Mirab Omo,Surma,2017,4,1,0,0,5,91,8,100
+South West Ethiopia,Mirab Omo,Surma,2019,32,47,5,1,87,199,31,230
+South West Ethiopia,Mirab Omo,Surma,2020,65,177,9,0,253,832,81,914
+South West Ethiopia,Dawuro,Loma,2018,150,2428,146,135,2860,6058,993,7051
+South West Ethiopia,Dawuro,Loma,2017,232,1671,283,279,2466,5403,702,6106
+South West Ethiopia,Dawuro,Loma,2019,170,2289,173,76,2709,4669,898,5567
+South West Ethiopia,Dawuro,Loma,2020,102,2913,187,236,3439,6677,867,7545
+South West Ethiopia,Mirab Omo,Bero,2018,1,75,3,0,80,81,4,85
+South West Ethiopia,Mirab Omo,Bero,2017,5,47,3,1,58,84,7,92
+South West Ethiopia,Mirab Omo,Bero,2019,0,92,0,0,92,96,0,96
+South West Ethiopia,Mirab Omo,Bero,2020,0,104,0,0,104,86,2,88
+South West Ethiopia,Konta Special,Konta,2018,587,784,57,16,1445,2013,365,2379
+South West Ethiopia,Konta Special,Konta,2017,1346,1760,94,78,3280,3937,711,4649
+South West Ethiopia,Konta Special,Konta,2019,2,1765,11,0,1780,2378,35,2413
+South West Ethiopia,Konta Special,Konta,2020,4,3370,0,0,3374,3945,1531,5476
+Amhara,East Gojam,Debrework town,2018,7,141,0,0,150,225,31,256
+Amhara,East Gojam,Debrework town,2017,0,52,5,2,60,129,11,140
+Amhara,East Gojam,Debrework town,2020,0,202,3,0,206,335,36,372
+Amhara,East Gojam,Debrework town,2019,3,281,4,0,289,415,59,474
+Amhara,East Gojam,Dejen,2017,2470,1527,100,55,4154,1785,667,2453
+Amhara,East Gojam,Dejen,2018,1996,2240,75,23,4335,1723,432,2156
+Amhara,East Gojam,Dejen,2019,0,1003,15,0,1019,1987,38,2025
+Amhara,East Gojam,Dejen,2020,22,2780,13,0,2816,3120,1707,4827
+Amhara,West Gondar,Metema,2018,206,1333,117,176,1833,3358,431,3789
+Amhara,West Gondar,Metema,2017,526,1848,174,129,2679,3215,532,3747
+Amhara,West Gondar,Metema,2020,26,3085,30,7,3150,4358,1686,6044
+Amhara,West Gondar,Metema,2019,0,1096,18,0,1115,2260,52,2312
+Amhara,East Gojam,Awabel,2018,242,1067,46,23,1379,2233,315,2548
+Amhara,East Gojam,Awabel,2017,203,805,75,15,1099,1903,315,2218
+Amhara,East Gojam,Awabel,2019,109,683,28,16,839,1498,169,1668
+Amhara,East Gojam,Awabel,2020,124,720,49,33,928,1850,199,2050
+Amhara,West Gondar,Quara,2018,66,1494,37,0,1597,2998,676,3675
+Amhara,West Gondar,Quara,2017,60,1440,121,17,1640,3010,501,3512
+Amhara,West Gondar,Quara,2019,24,2335,30,4,2395,3869,461,4330
+Amhara,West Gondar,Quara,2020,8,2344,246,3,2603,3186,648,3835
+Amhara,North Wello,Gashena town,2017,2,101,0,0,104,155,2,158
+Amhara,North Wello,Gashena town,2018,0,106,3,0,110,140,10,151
+Amhara,North Wello,Gashena town,2019,0,103,4,0,108,136,1,138
+Amhara,North Wello,Gashena town,2020,0,114,2,0,116,121,20,141
+Amhara,East Gojam,Debre Elias,2018,33,2424,5,17,2480,3668,215,3884
+Amhara,East Gojam,Debre Elias,2017,65,2731,17,14,2829,3829,593,4423
+Amhara,East Gojam,Debre Elias,2020,0,1765,0,0,1765,2439,378,2817
+Amhara,East Gojam,Debre Elias,2019,0,1998,42,0,2040,2767,5,2773
+Amhara,West Gojam,Bure (AM),2018,21,1926,4,0,1952,2676,392,3069
+Amhara,West Gojam,Bure (AM),2017,33,1665,8,0,1707,2652,440,3092
+Amhara,West Gojam,Bure (AM),2019,8,1650,6,1,1666,2194,228,2422
+Amhara,West Gojam,Bure (AM),2020,0,2706,0,0,2706,3531,298,3830
+Amhara,North Shewa (AM),Eferatana Gidem,2017,355,2698,0,0,3053,4717,660,5377
+Amhara,North Shewa (AM),Eferatana Gidem,2018,27,3862,37,0,3926,5406,294,5700
+Amhara,North Shewa (AM),Eferatana Gidem,2019,0,3802,10,2,3815,5641,258,5899
+Amhara,North Shewa (AM),Eferatana Gidem,2020,0,3952,0,0,3952,4841,1166,6008
+Amhara,North Shewa (AM),Antsokiya,2018,27,162,3,27,221,268,38,306
+Amhara,North Shewa (AM),Antsokiya,2017,25,121,7,18,172,239,41,281
+Amhara,North Shewa (AM),Antsokiya,2019,0,246,0,0,247,319,11,331
+Amhara,North Shewa (AM),Antsokiya,2020,0,918,0,0,918,1164,257,1422
+Amhara,South Wello,Mehal Sayint,2018,37,1361,21,9,1429,3432,143,3576
+Amhara,South Wello,Mehal Sayint,2017,137,1486,293,88,2006,3064,934,3999
+Amhara,South Wello,Mehal Sayint,2020,2,2494,24,8,2530,3846,129,3976
+Amhara,South Wello,Mehal Sayint,2019,9,2120,91,24,2246,3957,167,4125
+Amhara,Awi,Fagta Lakoma,2018,37,3990,86,9,4124,5169,784,5953
+Amhara,Awi,Fagta Lakoma,2017,24,3192,170,1,3389,4105,799,4904
+Amhara,Awi,Fagta Lakoma,2020,0,2433,34,0,2468,4856,0,4856
+Amhara,Awi,Fagta Lakoma,2019,4,2171,63,1,2240,3626,200,3827
+Amhara,Oromia,Bati,2018,811,922,127,66,1927,2338,879,3217
+Amhara,Oromia,Bati,2017,594,729,132,70,1527,1726,731,2457
+Amhara,Oromia,Bati,2019,1125,1993,227,176,3522,3745,1275,5021
+Amhara,Oromia,Bati,2020,539,2417,294,63,3314,3979,1393,5372
+Amhara,East Gojam,Michakel,2017,41,3068,30,36,3176,3638,483,4122
+Amhara,East Gojam,Michakel,2018,0,3544,138,6,3689,3894,51,3945
+Amhara,East Gojam,Michakel,2019,0,2040,0,0,2041,2866,143,3009
+Amhara,East Gojam,Michakel,2020,4,3797,31,0,3833,4742,308,5050
+Amhara,North Wello,Wadla,2017,49,1908,78,35,2071,3962,237,4199
+Amhara,North Wello,Wadla,2018,53,3662,69,20,3807,6319,430,6750
+Amhara,North Wello,Wadla,2020,18,7291,0,0,7310,9722,0,9722
+Amhara,North Wello,Wadla,2019,0,5750,50,0,5801,8447,34,8481
+Amhara,North Shewa (AM),Tarema Ber,2017,915,954,254,286,2410,2281,1630,3911
+Amhara,North Shewa (AM),Tarema Ber,2018,981,764,393,404,2543,3944,1017,4961
+Amhara,North Shewa (AM),Tarema Ber,2020,390,169,73,42,676,1671,580,2251
+Amhara,North Shewa (AM),Tarema Ber,2019,1244,899,344,350,2838,2782,1124,3907
+Amhara,South Wello,Borena /Debresina,2018,57,3696,4,0,3759,6582,433,7015
+Amhara,South Wello,Borena /Debresina,2017,0,477,10,0,488,4502,795,5298
+Amhara,South Wello,Borena /Debresina,2019,15,5503,0,0,5520,6240,287,6528
+Amhara,South Wello,Borena /Debresina,2020,10,5690,24,0,5726,6959,52,7011
+Amhara,West Gondar,Adagn Ager Chako,2018,1,140,2,0,144,226,8,234
+Amhara,West Gondar,Adagn Ager Chako,2017,5,204,1,0,211,258,7,266
+Amhara,West Gondar,Adagn Ager Chako,2019,3,189,0,0,194,254,11,266
+Amhara,West Gondar,Adagn Ager Chako,2020,0,131,0,0,131,187,1,189
+Amhara,Awi,Ankasha,2018,19,1708,164,29,1921,4709,1053,5763
+Amhara,Awi,Ankasha,2017,216,2007,193,171,2588,6135,1719,7854
+Amhara,Awi,Ankasha,2019,7,3468,155,69,3700,5493,580,6073
+Amhara,Awi,Ankasha,2020,0,3816,259,32,4108,7438,515,7954
+Amhara,North Shewa (AM),Ensaro,2018,1016,947,55,40,2059,2701,532,3234
+Amhara,North Shewa (AM),Ensaro,2017,845,495,14,9,1366,1990,430,2421
+Amhara,North Shewa (AM),Ensaro,2019,169,1854,17,11,2052,2819,739,3559
+Amhara,North Shewa (AM),Ensaro,2020,0,2474,0,0,2474,3087,310,3398
+Amhara,South Wello,Legambo,2017,62,3689,511,102,4366,5346,3663,9010
+Amhara,South Wello,Legambo,2018,32,2553,80,48,2715,5060,2098,7158
+Amhara,South Wello,Legambo,2020,48,4262,37,20,4368,8371,775,9146
+Amhara,South Wello,Legambo,2019,0,3624,45,0,3669,7653,1220,8874
+Amhara,South Gondar,East Esite,2018,14,1308,46,75,1444,3139,589,3728
+Amhara,South Gondar,East Esite,2017,139,1980,71,53,2245,3655,416,4071
+Amhara,South Gondar,East Esite,2020,47,1836,70,29,1983,4328,1468,5797
+Amhara,South Gondar,East Esite,2019,175,5205,361,529,6271,8462,580,9043
+Amhara,South Wello,Kalu,2018,84,5071,427,35,5618,6477,1879,8356
+Amhara,South Wello,Kalu,2017,273,3124,311,158,3867,5096,1091,6187
+Amhara,South Wello,Kalu,2019,36,1936,37,8,2019,4059,864,4924
+Amhara,South Wello,Kalu,2020,9,4623,186,5,4824,6869,1554,8424
+Amhara,West Gojam,Dega Damot,2017,12,591,36,0,641,1045,220,1266
+Amhara,West Gojam,Dega Damot,2018,0,838,2,0,841,1527,159,1687
+Amhara,West Gojam,Dega Damot,2020,0,1613,12,12,1638,2385,0,2385
+Amhara,West Gojam,Dega Damot,2019,37,1548,18,1,1606,2194,58,2252
+Amhara,Central Gondar,Takusa,2018,30,3179,22,4,3237,4446,475,4921
+Amhara,Central Gondar,Takusa,2017,24,3029,53,0,3107,4143,155,4299
+Amhara,Central Gondar,Takusa,2020,0,5242,5,0,5247,6850,23,6873
+Amhara,Central Gondar,Takusa,2019,4,5383,5,0,5394,6317,210,6528
+Amhara,Wag Hamra,Amde Work town,2018,3,122,0,0,125,174,0,174
+Amhara,Wag Hamra,Amde Work town,2017,16,164,4,1,187,258,13,272
+Amhara,Wag Hamra,Amde Work town,2020,0,259,0,0,259,273,86,360
+Amhara,Wag Hamra,Amde Work town,2019,0,195,0,0,195,229,1,230
+Amhara,Wag Hamra,Sahila,2018,3,686,0,0,690,741,24,765
+Amhara,Wag Hamra,Sahila,2017,15,356,4,0,376,603,106,710
+Amhara,Wag Hamra,Sahila,2019,0,684,0,0,684,664,6,670
+Amhara,Wag Hamra,Sahila,2020,2,610,1,0,615,536,92,629
+Amhara,North Shewa (AM),Minjar Shenkora,2018,148,2675,60,0,2883,5813,844,6658
+Amhara,North Shewa (AM),Minjar Shenkora,2017,32,3431,13,0,3477,4725,351,5076
+Amhara,North Shewa (AM),Minjar Shenkora,2020,21,3118,21,0,3161,5193,224,5418
+Amhara,North Shewa (AM),Minjar Shenkora,2019,88,3352,25,0,3465,6000,553,6554
+Amhara,Awi,Guangua,2017,96,7797,19,0,7913,10416,1195,11611
+Amhara,Awi,Guangua,2018,69,7042,0,0,7111,10857,1210,12068
+Amhara,Awi,Guangua,2020,0,6614,61,5,6681,10259,722,10981
+Amhara,Awi,Guangua,2019,112,9935,44,0,10092,12081,534,12616
+Amhara,Central Gondar,Chilga,2018,6,2055,47,1,2110,3289,517,3807
+Amhara,Central Gondar,Chilga,2017,0,2609,30,0,2639,4091,95,4186
+Amhara,Central Gondar,Chilga,2019,38,3849,29,0,3916,5111,276,5388
+Amhara,Central Gondar,Chilga,2020,22,1810,13,0,1846,2934,277,3211
+Amhara,Oromia,Chef Robit town,2017,1,156,4,2,163,247,24,272
+Amhara,Oromia,Chef Robit town,2018,8,278,14,1,302,465,56,521
+Amhara,Oromia,Chef Robit town,2019,8,408,10,0,428,504,20,524
+Amhara,Oromia,Chef Robit town,2020,3,494,1,0,499,645,39,684
+Amhara,West Gojam,Jiga town,2017,0,187,1,1,189,195,12,208
+Amhara,West Gojam,Jiga town,2018,0,162,0,0,162,161,0,161
+Amhara,West Gojam,Jiga town,2020,0,151,0,0,152,142,1,143
+Amhara,West Gojam,Jiga town,2019,1,90,0,0,91,77,2,79
+Amhara,North Wello,Lasta,2018,112,1210,26,3,1352,4374,906,5281
+Amhara,North Wello,Lasta,2017,120,1884,28,79,2113,5030,285,5315
+Amhara,North Wello,Lasta,2020,73,1683,9,0,1765,3474,210,3685
+Amhara,North Wello,Lasta,2019,88,1250,13,2,1355,3741,96,3838
+Amhara,North Shewa (AM),Siya Debirna Wayu,2017,0,209,1,0,211,379,44,424
+Amhara,North Shewa (AM),Siya Debirna Wayu,2018,4,423,11,17,456,634,49,684
+Amhara,North Shewa (AM),Siya Debirna Wayu,2020,0,849,4,0,853,907,75,982
+Amhara,North Shewa (AM),Siya Debirna Wayu,2019,0,518,7,0,525,586,34,620
+Amhara,South Wello,Sayint,2017,103,2387,36,5,2533,2805,342,3147
+Amhara,South Wello,Sayint,2018,39,1910,48,19,2018,2330,432,2762
+Amhara,South Wello,Sayint,2019,19,1517,19,33,1588,2083,229,2312
+Amhara,South Wello,Sayint,2020,43,1661,18,43,1767,2301,108,2409
+Amhara,Central Gondar,West Dembiya,2018,30,906,13,10,961,2048,38,2087
+Amhara,Central Gondar,West Dembiya,2017,131,1690,48,24,1894,2964,62,3027
+Amhara,Central Gondar,West Dembiya,2019,6,956,17,0,980,1996,121,2118
+Amhara,Central Gondar,West Dembiya,2020,1,1062,45,22,1131,1676,91,1767
+Amhara,Central Gondar,Gondar town,2018,5,2667,21,5,2698,3313,209,3522
+Amhara,Central Gondar,Gondar town,2017,80,2284,13,5,2384,3298,159,3457
+Amhara,Central Gondar,Gondar town,2020,7,2700,7,0,2716,3715,76,3791
+Amhara,Central Gondar,Gondar town,2019,93,11904,25,100,12123,14747,55,14802
+Amhara,South Gondar,Dera (AM),2018,11,1611,5,0,1628,1915,88,2004
+Amhara,South Gondar,Dera (AM),2017,47,317,16,5,387,667,125,792
+Amhara,South Gondar,Dera (AM),2019,0,1931,4,1,1937,2216,128,2344
+Amhara,South Gondar,Dera (AM),2020,0,2144,0,0,2144,2492,0,2492
+Amhara,West Gojam,Jabi Tehnan,2018,0,4186,0,0,4186,5816,554,6370
+Amhara,West Gojam,Jabi Tehnan,2017,69,7126,18,34,7248,7200,540,7740
+Amhara,West Gojam,Jabi Tehnan,2020,0,5899,379,0,6278,7541,1298,8840
+Amhara,West Gojam,Jabi Tehnan,2019,0,3744,0,0,3744,4725,294,5019
+Amhara,South Wello,Akeseta town,2017,2,215,5,0,223,333,9,342
+Amhara,South Wello,Akeseta town,2018,0,78,2,0,80,205,7,213
+Amhara,South Wello,Akeseta town,2020,0,258,2,0,261,390,22,412
+Amhara,South Wello,Akeseta town,2019,0,194,2,0,196,317,3,320
+Amhara,South Gondar,Ebenat town,2017,16,546,37,5,606,808,128,936
+Amhara,South Gondar,Ebenat town,2018,1,524,33,9,568,986,138,1125
+Amhara,South Gondar,Ebenat town,2020,0,842,0,0,843,1232,53,1286
+Amhara,South Gondar,Ebenat town,2019,4,737,12,10,764,1051,168,1219
+Amhara,North Wello,Habru,2018,246,2259,136,67,2710,3980,1496,5477
+Amhara,North Wello,Habru,2017,431,1362,294,88,2177,3780,791,4572
+Amhara,North Wello,Habru,2019,141,3746,193,17,4097,5351,854,6206
+Amhara,North Wello,Habru,2020,146,2106,65,14,2333,3913,797,4710
+Amhara,East Gojam,Sedae,2018,20,1617,61,11,1710,1727,476,2203
+Amhara,East Gojam,Sedae,2017,23,1163,57,3,1248,1424,532,1956
+Amhara,East Gojam,Sedae,2020,10,1226,73,0,1310,1591,420,2011
+Amhara,East Gojam,Sedae,2019,0,1268,136,0,1404,1464,361,1826
+Amhara,Awi,Dangila,2017,102,547,21,30,701,1361,149,1511
+Amhara,Awi,Dangila,2018,279,1359,126,35,1800,4329,1613,5942
+Amhara,Awi,Dangila,2020,180,1749,60,25,2016,7003,561,7564
+Amhara,Awi,Dangila,2019,90,573,17,7,688,3868,305,4174
+Amhara,West Gondar,Mirab Armacho,2017,44,33,12,2,93,89,27,117
+Amhara,West Gondar,Mirab Armacho,2018,243,269,24,5,542,703,280,983
+Amhara,West Gondar,Mirab Armacho,2019,99,150,10,5,265,329,184,513
+Amhara,West Gondar,Mirab Armacho,2020,196,565,64,15,842,1329,594,1923
+Amhara,North Shewa (AM),Berehet,2017,27,1140,31,0,1199,1233,22,1256
+Amhara,North Shewa (AM),Berehet,2018,0,791,6,1,799,811,4,815
+Amhara,North Shewa (AM),Berehet,2020,3,1356,19,1,1380,1351,25,1376
+Amhara,North Shewa (AM),Berehet,2019,0,724,4,1,730,762,9,771
+Amhara,Wag Hamra,Gaz Gibla,2017,0,2225,109,5,2339,2498,767,3266
+Amhara,Wag Hamra,Gaz Gibla,2018,0,2205,22,0,2227,2905,51,2957
+Amhara,Wag Hamra,Gaz Gibla,2019,0,1686,14,0,1700,2625,47,2673
+Amhara,Wag Hamra,Gaz Gibla,2020,0,1602,0,0,1603,2176,626,2803
+Amhara,South Wello,Tulu Awlia,2017,2,91,2,0,97,133,5,139
+Amhara,South Wello,Tulu Awlia,2018,1,77,4,5,88,126,10,136
+Amhara,South Wello,Tulu Awlia,2020,1,114,1,0,117,143,8,151
+Amhara,South Wello,Tulu Awlia,2019,0,83,0,0,83,122,3,125
+Amhara,Awi,Tilili town,2018,1,462,0,0,463,787,30,818
+Amhara,Awi,Tilili town,2017,14,414,9,0,438,795,12,808
+Amhara,Awi,Tilili town,2019,0,539,0,0,539,698,81,780
+Amhara,Awi,Tilili town,2020,0,603,0,0,603,847,172,1020
+Amhara,North Wello,Bugna,2018,15,757,13,0,787,1092,401,1494
+Amhara,North Wello,Bugna,2017,28,702,37,1,769,1018,260,1279
+Amhara,North Wello,Bugna,2020,5,596,6,3,611,758,254,1012
+Amhara,North Wello,Bugna,2019,1,762,1,0,765,1025,317,1342
+Amhara,North Wello,Filakit town,2017,1,142,0,0,145,255,43,298
+Amhara,North Wello,Filakit town,2018,19,499,7,9,536,746,65,811
+Amhara,North Wello,Filakit town,2020,0,966,4,0,970,1306,0,1306
+Amhara,North Wello,Filakit town,2019,5,904,4,0,914,1178,20,1198
+Amhara,Central Gondar,Wegera,2017,282,4699,152,58,5193,6590,1400,7991
+Amhara,Central Gondar,Wegera,2018,183,4768,48,0,5000,6962,805,7768
+Amhara,Central Gondar,Wegera,2019,1,9194,117,12,9326,11047,470,11518
+Amhara,Central Gondar,Wegera,2020,45,8275,5,0,8325,11051,699,11750
+Amhara,Awi,Guagusa Shikudad,2018,39,2287,59,10,2396,2851,364,3216
+Amhara,Awi,Guagusa Shikudad,2017,112,2389,16,4,2523,3282,315,3597
+Amhara,Awi,Guagusa Shikudad,2020,15,1935,34,0,1986,2271,353,2624
+Amhara,Awi,Guagusa Shikudad,2019,0,2031,22,0,2054,2533,62,2596
+Amhara,Oromia,Bati Town,2018,132,101,15,3,252,474,134,608
+Amhara,Oromia,Bati Town,2017,152,104,13,6,276,306,78,384
+Amhara,Oromia,Bati Town,2019,216,173,21,7,418,518,213,732
+Amhara,Oromia,Bati Town,2020,141,129,17,8,296,442,152,595
+Amhara,Central Gondar,Tach Armacho,2018,1768,630,148,132,2679,1822,948,2770
+Amhara,Central Gondar,Tach Armacho,2017,2214,434,64,60,2774,2775,614,3390
+Amhara,Central Gondar,Tach Armacho,2019,1,754,7,0,763,1318,14,1332
+Amhara,Central Gondar,Tach Armacho,2020,0,2512,2,13,2529,3012,1958,4971
+Amhara,Oromia,Dewa Harewa,2018,8,145,2,0,156,251,11,263
+Amhara,Oromia,Dewa Harewa,2017,5,126,8,1,140,167,36,203
+Amhara,Oromia,Dewa Harewa,2020,0,209,0,0,209,260,39,300
+Amhara,Oromia,Dewa Harewa,2019,0,214,0,0,214,281,0,281
+Amhara,Awi,Jawi,2018,126,1681,22,26,1857,2926,289,3215
+Amhara,Awi,Jawi,2017,133,1380,29,34,1577,2502,266,2769
+Amhara,Awi,Jawi,2019,31,2781,40,29,2882,3755,74,3829
+Amhara,Awi,Jawi,2020,22,2208,98,121,2449,3519,115,3635
+Amhara,North Wello,Kobo town,2017,19,691,24,6,742,1038,43,1081
+Amhara,North Wello,Kobo town,2018,0,798,36,7,842,1046,17,1063
+Amhara,North Wello,Kobo town,2019,0,1100,5,0,1106,1139,1,1141
+Amhara,North Wello,Kobo town,2020,5,731,0,0,737,1028,6,1035
+Amhara,South Gondar,Libokemekem,2017,60,851,50,47,1010,1796,352,2148
+Amhara,South Gondar,Libokemekem,2018,12,1166,21,2,1202,1991,430,2421
+Amhara,South Gondar,Libokemekem,2020,12,1048,15,6,1082,1600,302,1903
+Amhara,South Gondar,Libokemekem,2019,0,1057,49,1,1108,1386,223,1610
+Amhara,Oromia,Senbete town,2017,6,108,4,5,125,196,16,212
+Amhara,Oromia,Senbete town,2018,1,135,0,0,137,198,7,205
+Amhara,Oromia,Senbete town,2020,2,227,0,0,230,316,4,321
+Amhara,Oromia,Senbete town,2019,0,223,0,0,223,275,1,276
+Amhara,West Gojam,Yilmana Densa,2017,299,5939,72,501,6812,9645,1418,11063
+Amhara,West Gojam,Yilmana Densa,2018,588,5797,820,643,7849,10924,629,11553
+Amhara,West Gojam,Yilmana Densa,2019,263,6116,1443,179,8002,11223,702,11925
+Amhara,West Gojam,Yilmana Densa,2020,0,5626,1083,0,6710,10133,332,10465
+Amhara,West Gojam,Finote Selam town,2017,389,686,144,196,1417,1464,195,1659
+Amhara,West Gojam,Finote Selam town,2018,26,1220,30,64,1342,1807,67,1875
+Amhara,West Gojam,Finote Selam town,2019,9,1633,6,0,1649,1779,53,1833
+Amhara,West Gojam,Finote Selam town,2020,13,1413,36,14,1477,1785,235,2020
+Amhara,East Gojam,Hulet Ej Enese,2018,0,6226,120,16,6363,10337,284,10621
+Amhara,East Gojam,Hulet Ej Enese,2017,13,5986,106,39,6144,10190,421,10612
+Amhara,East Gojam,Hulet Ej Enese,2020,0,7444,0,9,7454,11302,285,11588
+Amhara,East Gojam,Hulet Ej Enese,2019,0,2986,13,4,3004,5602,160,5762
+Amhara,Awi,Adiss Kidame town,2017,7,409,40,2,459,573,110,683
+Amhara,Awi,Adiss Kidame town,2018,5,599,0,0,604,836,11,848
+Amhara,Awi,Adiss Kidame town,2019,0,531,4,0,535,712,54,766
+Amhara,Awi,Adiss Kidame town,2020,0,514,35,0,549,658,89,748
+Amhara,North Shewa (AM),Debre Sina town,2017,7,182,14,3,208,288,111,400
+Amhara,North Shewa (AM),Debre Sina town,2018,6,359,18,13,397,553,196,750
+Amhara,North Shewa (AM),Debre Sina town,2019,12,589,4,0,606,707,35,742
+Amhara,North Shewa (AM),Debre Sina town,2020,0,670,1,0,672,789,41,831
+Amhara,North Shewa (AM),Mida Woremo,2017,26,2109,57,35,2228,2496,494,2990
+Amhara,North Shewa (AM),Mida Woremo,2018,13,1834,32,9,1890,2736,289,3025
+Amhara,North Shewa (AM),Mida Woremo,2019,20,2861,7,3,2894,3539,230,3770
+Amhara,North Shewa (AM),Mida Woremo,2020,0,3245,95,0,3340,4408,212,4620
+Amhara,West Gojam,Shendi town,2018,0,222,10,2,234,607,128,735
+Amhara,West Gojam,Shendi town,2017,5,264,23,3,297,609,208,818
+Amhara,West Gojam,Shendi town,2019,2,276,31,3,315,580,137,717
+Amhara,West Gojam,Shendi town,2020,2,659,11,1,675,741,174,916
+Amhara,West Gojam,Wemberma,2018,161,216,35,27,441,1306,166,1473
+Amhara,West Gojam,Wemberma,2017,481,288,106,78,955,1394,338,1733
+Amhara,West Gojam,Wemberma,2020,419,480,110,91,1102,2329,420,2749
+Amhara,West Gojam,Wemberma,2019,659,732,255,295,1943,3124,670,3795
+Amhara,East Gojam,Baso Liben,2017,3514,973,148,175,4812,5589,688,6277
+Amhara,East Gojam,Baso Liben,2018,2248,1287,235,96,3868,5936,744,6681
+Amhara,East Gojam,Baso Liben,2019,1527,1001,205,110,2844,4082,512,4595
+Amhara,East Gojam,Baso Liben,2020,1810,659,136,94,2701,3363,727,4091
+Amhara,East Gojam,Amanuel town,2017,137,244,7,7,396,636,37,673
+Amhara,East Gojam,Amanuel town,2018,23,525,4,4,557,730,14,745
+Amhara,East Gojam,Amanuel town,2020,0,378,0,0,378,607,33,640
+Amhara,East Gojam,Amanuel town,2019,0,524,0,0,524,605,0,605
+Amhara,North Shewa (AM),Moretna Jiru,2017,395,1485,22,42,1946,1687,231,1918
+Amhara,North Shewa (AM),Moretna Jiru,2018,131,1256,48,49,1486,1243,249,1492
+Amhara,North Shewa (AM),Moretna Jiru,2020,72,1047,3,0,1124,1138,170,1309
+Amhara,North Shewa (AM),Moretna Jiru,2019,130,1467,11,0,1609,1323,133,1457
+Tigray,North Western,May Tsebri town,2018,102,427,45,15,590,707,42,749
+Tigray,North Western,May Tsebri town,2017,102,294,71,28,496,631,32,664
+Tigray,North Western,May Tsebri town,2020,127,424,39,8,600,756,24,780
+Tigray,North Western,May Tsebri town,2019,118,421,35,2,578,712,17,729
+Tigray,Central,Adwa town,2018,49,1216,54,28,1349,2606,470,3077
+Tigray,Central,Adwa town,2017,39,1238,29,35,1343,2403,452,2856
+Tigray,Central,Adwa town,2020,7,2449,18,22,2497,3237,17,3254
+Tigray,Central,Adwa town,2019,43,1142,44,16,1246,1389,190,1580
+Tigray,North Western,Tselemti,2017,237,2802,182,101,3323,7202,230,7433
+Tigray,North Western,Tselemti,2018,11,3897,0,0,3908,7516,347,7864
+Tigray,North Western,Tselemti,2020,0,3248,0,0,3248,6028,684,6712
+Tigray,North Western,Tselemti,2019,0,2377,0,0,2377,6429,65,6494
+Tigray,Central,Chila,2018,59,31,3,2,97,121,19,140
+Tigray,Central,Chila,2017,62,20,6,5,94,187,26,213
+Tigray,Central,Chila,2019,99,55,5,6,167,200,19,220
+Tigray,Central,Chila,2020,63,95,8,6,173,223,13,236
+Tigray,Southern,Bora (TG),2018,0,1152,0,0,1152,1445,12,1457
+Tigray,Southern,Bora (TG),2017,0,843,12,9,865,1214,140,1354
+Tigray,Southern,Bora (TG),2019,7,881,7,0,896,1245,7,1253
+Tigray,Southern,Bora (TG),2020,0,867,0,0,867,1510,42,1553
+Tigray,Central,Aheferom,2018,1077,949,203,78,2309,2793,1114,3907
+Tigray,Central,Aheferom,2017,1163,1169,196,60,2589,3867,860,4728
+Tigray,Central,Aheferom,2019,524,1180,103,43,1852,3791,994,4785
+Tigray,Central,Aheferom,2020,198,929,92,5,1225,3649,1010,4660
+Tigray,Eastern,Atsbi town,2018,5,13,5,0,25,86,8,95
+Tigray,Eastern,Atsbi town,2017,47,197,11,15,271,350,21,372
+Tigray,Eastern,Atsbi town,2019,4,16,5,0,27,27,2,30
+Tigray,Eastern,Atsbi town,2020,25,104,48,23,201,304,64,369
+Tigray,Eastern,Freweyni town,2017,3,56,0,0,61,170,5,176
+Tigray,Eastern,Freweyni town,2018,4,43,4,3,56,232,10,242
+Tigray,Eastern,Freweyni town,2020,0,140,7,0,148,269,31,301
+Tigray,Eastern,Freweyni town,2019,2,218,12,4,237,468,5,474
+Tigray,Central,Emba Sieneti,2018,2,1387,3,0,1393,1817,34,1852
+Tigray,Central,Emba Sieneti,2017,35,1437,47,1,1522,1790,104,1895
+Tigray,Central,Emba Sieneti,2019,5,1433,0,0,1439,1768,10,1779
+Tigray,Central,Emba Sieneti,2020,0,1296,0,0,1296,1693,290,1984
+Tigray,Eastern,Geraleta,2017,728,499,429,486,2144,1317,350,1668
+Tigray,Eastern,Geraleta,2018,587,287,180,191,1246,2277,13,2291
+Tigray,Eastern,Geraleta,2020,342,13,31,19,407,2489,41,2531
+Tigray,Eastern,Geraleta,2019,476,81,50,75,683,2563,49,2613
+Tigray,Central,Edaga arbi,2018,82,693,33,16,826,1318,370,1689
+Tigray,Central,Edaga arbi,2017,104,900,66,49,1120,1475,361,1836
+Tigray,Central,Edaga arbi,2020,103,934,0,8,1046,1439,271,1710
+Tigray,Central,Edaga arbi,2019,142,1342,23,4,1513,2143,373,2516
+Tigray,South Eastern,Enderta,2018,42,636,19,40,739,1617,479,2097
+Tigray,South Eastern,Enderta,2017,34,976,40,0,1050,1919,296,2216
+Tigray,South Eastern,Enderta,2020,4,2166,34,0,2205,3601,262,3864
+Tigray,South Eastern,Enderta,2019,0,672,10,0,683,1568,419,1988
+Tigray,North Western,Adi Hageray,2017,172,189,18,1,382,335,71,406
+Tigray,North Western,Adi Hageray,2018,8,56,0,2,67,204,45,250
+Tigray,North Western,Adi Hageray,2020,0,348,0,0,348,441,162,603
+Tigray,North Western,Adi Hageray,2019,0,160,2,0,164,281,14,295
+Tigray,Southern,Selewa,2017,46,740,19,0,806,1136,439,1576
+Tigray,Southern,Selewa,2018,0,935,2,0,938,1935,313,2249
+Tigray,Southern,Selewa,2020,7,1293,20,6,1328,2145,176,2321
+Tigray,Southern,Selewa,2019,0,1046,6,0,1053,1770,144,1915
+Tigray,Southern,Maichew town,2017,49,262,68,37,417,570,138,709
+Tigray,Southern,Maichew town,2018,29,112,16,10,169,450,140,591
+Tigray,Southern,Maichew town,2019,100,311,60,17,489,1277,411,1689
+Tigray,Southern,Maichew town,2020,23,210,7,5,246,831,325,1157
+Tigray,Eastern,Kelete Awelallo,2017,90,2428,2,18,2539,3852,198,4050
+Tigray,Eastern,Kelete Awelallo,2018,4,2613,40,0,2657,3941,205,4146
+Tigray,Eastern,Kelete Awelallo,2020,0,2470,0,0,2470,3825,636,4462
+Tigray,Eastern,Kelete Awelallo,2019,29,1769,28,0,1827,2780,69,2850
+Tigray,North Western,Dima (TG),2018,6,303,35,0,344,663,722,1386
+Tigray,North Western,Dima (TG),2017,2,97,3,0,103,454,264,718
+Tigray,North Western,Dima (TG),2019,9,794,60,5,869,1359,100,1459
+Tigray,North Western,Dima (TG),2020,4,1266,12,0,1284,1838,0,1838
+Tigray,South Eastern,Degua Temben,2017,0,3912,54,56,4022,4959,38,4998
+Tigray,South Eastern,Degua Temben,2018,0,3637,32,16,3686,4829,71,4901
+Tigray,South Eastern,Degua Temben,2019,2,3243,116,0,3361,4951,70,5022
+Tigray,South Eastern,Degua Temben,2020,10,4460,0,127,4597,5842,201,6043
+Tigray,Central,Rama,2017,117,90,16,7,232,283,101,385
+Tigray,Central,Rama,2018,16,8,0,0,26,120,39,159
+Tigray,Central,Rama,2019,85,56,7,14,164,378,115,493
+Tigray,Central,Rama,2020,76,143,7,9,237,320,78,398
+Tigray,Central,Endafelasi,2017,13,215,30,8,267,350,107,457
+Tigray,Central,Endafelasi,2018,3,193,10,3,211,333,118,452
+Tigray,Central,Endafelasi,2020,0,374,0,0,374,511,80,591
+Tigray,Central,Endafelasi,2019,0,260,3,1,265,370,109,479
+Benishangul Gumuz,Assosa,Sherkole,2018,0,859,4,0,864,1509,191,1700
+Benishangul Gumuz,Assosa,Sherkole,2017,0,619,25,0,644,1130,236,1366
+Benishangul Gumuz,Assosa,Sherkole,2020,0,965,14,2,982,1403,250,1653
+Benishangul Gumuz,Assosa,Sherkole,2019,0,640,1,0,642,1039,129,1168
+Benishangul Gumuz,Metekel,Bulen,2017,23,468,18,3,514,784,385,1169
+Benishangul Gumuz,Metekel,Bulen,2018,41,1049,13,0,1104,1257,437,1694
+Benishangul Gumuz,Metekel,Bulen,2019,10,768,43,0,822,1061,309,1370
+Benishangul Gumuz,Metekel,Bulen,2020,0,1313,6,0,1320,1652,73,1725
+Benishangul Gumuz,Metekel,Mandura,2017,196,300,74,34,605,2126,576,2702
+Benishangul Gumuz,Metekel,Mandura,2018,259,139,19,6,424,2450,343,2794
+Benishangul Gumuz,Metekel,Mandura,2019,47,321,7,6,382,2716,298,3015
+Benishangul Gumuz,Metekel,Mandura,2020,0,146,21,0,169,2694,36,2730
+Benishangul Gumuz,Metekel,Guba,2018,1,396,10,1,409,581,46,628
+Benishangul Gumuz,Metekel,Guba,2017,7,495,36,9,547,748,68,816
+Benishangul Gumuz,Metekel,Guba,2019,2,359,3,1,367,513,57,570
+Benishangul Gumuz,Metekel,Guba,2020,7,619,3,0,630,912,36,948
+Benishangul Gumuz,Assosa,Kurmuk,2017,136,303,30,16,486,652,91,743
+Benishangul Gumuz,Assosa,Kurmuk,2018,69,351,42,22,485,723,55,778
+Benishangul Gumuz,Assosa,Kurmuk,2020,8,259,7,1,276,660,29,690
+Benishangul Gumuz,Assosa,Kurmuk,2019,44,284,32,16,378,622,36,658
+Benishangul Gumuz,Asossa,Odabuldi-Guli,2018,1,1080,5,0,1088,1579,129,1709
+Benishangul Gumuz,Asossa,Odabuldi-Guli,2017,3,598,4,0,605,1140,166,1307
+Benishangul Gumuz,Asossa,Odabuldi-Guli,2019,0,714,6,0,720,1021,47,1068
+Benishangul Gumuz,Asossa,Odabuldi-Guli,2020,0,977,0,0,977,1403,58,1461
+Benishangul Gumuz,Metekel,Dibate,2018,97,1149,110,128,1486,2128,625,2754
+Benishangul Gumuz,Metekel,Dibate,2017,118,1565,235,139,2059,3045,491,3537
+Benishangul Gumuz,Metekel,Dibate,2019,89,885,59,60,1095,978,407,1386
+Benishangul Gumuz,Metekel,Dibate,2020,9,2792,177,62,3042,3656,1735,5392
+Benishangul Gumuz,Assosa,Homosha,2017,0,893,19,0,912,1234,18,1252
+Benishangul Gumuz,Assosa,Homosha,2018,0,1069,2,0,1072,1264,5,1269
+Benishangul Gumuz,Assosa,Homosha,2020,0,913,102,0,1016,1067,276,1343
+Benishangul Gumuz,Assosa,Homosha,2019,0,1124,2,3,1130,1326,19,1345
+Benishangul Gumuz,Kamashi,Sedal,2017,8,142,0,1,152,275,1,276
+Benishangul Gumuz,Kamashi,Sedal,2018,0,72,0,0,72,204,13,218
+Benishangul Gumuz,Kamashi,Sedal,2019,0,31,0,0,32,150,6,157
+Benishangul Gumuz,Kamashi,Sedal,2020,1,31,4,0,36,421,28,449
+Benishangul Gumuz,Assosa,Bambasi,2018,68,1354,5,0,1428,1999,56,2055
+Benishangul Gumuz,Assosa,Bambasi,2017,112,2253,22,48,2436,2952,109,3061
+Benishangul Gumuz,Assosa,Bambasi,2020,51,1516,18,18,1605,2058,31,2090
+Benishangul Gumuz,Assosa,Bambasi,2019,17,1052,0,0,1070,1492,141,1633
+SNNP,Konso,Kena,2017,137,1634,42,38,1852,3109,236,3346
+SNNP,Konso,Kena,2018,74,1197,143,139,1553,2415,87,2503
+SNNP,Konso,Kena,2019,50,2983,119,94,3248,3960,132,4092
+SNNP,Konso,Kena,2020,0,2390,0,26,2416,3587,179,3766
+SNNP,Gamo,Daramalo,2017,7,189,5,4,207,822,57,879
+SNNP,Gamo,Daramalo,2018,196,2105,133,54,2490,3290,799,4090
+SNNP,Gamo,Daramalo,2020,55,2673,39,57,2825,3762,749,4511
+SNNP,Gamo,Daramalo,2019,397,2349,112,5,2865,3845,498,4343
+SNNP,South Omo,Dasenech /Kuraz,2017,18,436,37,6,499,709,249,959
+SNNP,South Omo,Dasenech /Kuraz,2018,26,505,51,9,593,722,209,932
+SNNP,South Omo,Dasenech /Kuraz,2020,0,913,0,0,913,949,24,973
+SNNP,South Omo,Dasenech /Kuraz,2019,17,1256,24,11,1309,1041,58,1100
+SNNP,Gofa,Melo Gada,2018,0,491,5,0,497,726,28,755
+SNNP,Gofa,Melo Gada,2017,0,499,0,0,500,772,14,786
+SNNP,Gofa,Melo Gada,2019,0,573,0,0,573,800,16,816
+SNNP,Gofa,Melo Gada,2020,0,754,1,0,756,1037,11,1049
+SNNP,Wolayita,Boloso Sore,2018,121,8895,47,4,9069,12779,1259,14038
+SNNP,Wolayita,Boloso Sore,2017,27,8907,123,11,9069,13656,893,14550
+SNNP,Wolayita,Boloso Sore,2020,31,7522,2,2,7558,10292,893,11186
+SNNP,Wolayita,Boloso Sore,2019,114,4262,0,0,4377,6923,207,7131
+SNNP,Gurage,South Sodo,2018,4,86,8,2,100,190,18,208
+SNNP,Gurage,South Sodo,2017,8,111,10,0,131,199,35,234
+SNNP,Gurage,South Sodo,2019,1,60,1,0,62,151,16,168
+SNNP,Gurage,South Sodo,2020,3,189,7,1,200,337,33,370
+SNNP,Kembata Tembaro,Tembaro,2018,51,4598,44,29,4723,6307,437,6745
+SNNP,Kembata Tembaro,Tembaro,2017,17,3032,17,0,3067,5747,222,5969
+SNNP,Kembata Tembaro,Tembaro,2019,11,1241,28,9,1290,2828,79,2908
+SNNP,Kembata Tembaro,Tembaro,2020,0,4584,0,0,4584,6523,230,6754
+SNNP,Gamo,Kucha Alpha,2017,2,347,13,5,368,599,158,758
+SNNP,Gamo,Kucha Alpha,2018,0,78,4,0,83,411,30,441
+SNNP,Gamo,Kucha Alpha,2019,0,29,0,0,29,204,8,212
+SNNP,Gamo,Kucha Alpha,2020,3,238,2,0,244,468,13,482
+SNNP,Gofa,Sawla town,2017,63,551,27,16,659,1195,122,1318
+SNNP,Gofa,Sawla town,2018,20,695,79,16,811,1409,101,1511
+SNNP,Gofa,Sawla town,2019,34,1404,1,1,1442,1996,125,2122
+SNNP,Gofa,Sawla town,2020,4,1724,4,8,1741,2343,204,2547
+SNNP,Gamo,Boreda,2018,22,2073,6,1,2105,3941,183,4125
+SNNP,Gamo,Boreda,2017,43,2285,9,13,2351,4008,301,4309
+SNNP,Gamo,Boreda,2020,44,3223,16,25,3309,4475,36,4511
+SNNP,Gamo,Boreda,2019,44,3221,18,32,3316,4114,35,4149
+SNNP,Alle,Alle Special,2017,47,1680,35,0,1763,2061,76,2137
+SNNP,Alle,Alle Special,2018,1,2011,77,5,2095,2270,54,2325
+SNNP,Alle,Alle Special,2020,11,834,21,12,880,1492,76,1568
+SNNP,Alle,Alle Special,2019,0,1493,11,22,1527,1956,136,2092
+SNNP,Gamo,Arba Minch town,2017,371,3025,53,3,3454,4326,682,5008
+SNNP,Gamo,Arba Minch town,2018,85,2225,65,0,2376,3888,1195,5083
+SNNP,Gamo,Arba Minch town,2019,132,1883,16,6,2039,3567,389,3957
+SNNP,Gamo,Arba Minch town,2020,23,3076,53,0,3153,4925,575,5501
+SNNP,Siltie,Mierab Azenet Berbere,2018,248,856,45,49,1199,1789,515,2305
+SNNP,Siltie,Mierab Azenet Berbere,2017,217,855,115,81,1270,1579,504,2084
+SNNP,Siltie,Mierab Azenet Berbere,2020,78,729,71,39,918,1290,470,1760
+SNNP,Siltie,Mierab Azenet Berbere,2019,210,1468,138,88,1905,1958,776,2735
+SNNP,Gamo,Selamber town,2017,162,165,9,26,364,435,76,512
+SNNP,Gamo,Selamber town,2018,208,79,31,12,332,433,140,573
+SNNP,Gamo,Selamber town,2020,123,80,14,6,225,412,78,490
+SNNP,Gamo,Selamber town,2019,92,31,18,14,156,238,55,293
+SNNP,Siltie,Misrak Azenet Berbere,2018,11,1367,35,0,1414,3183,325,3508
+SNNP,Siltie,Misrak Azenet Berbere,2017,14,1518,16,6,1556,2195,580,2776
+SNNP,Siltie,Misrak Azenet Berbere,2020,43,3346,0,0,3389,3230,259,3490
+SNNP,Siltie,Misrak Azenet Berbere,2019,16,4741,12,0,4771,3852,32,3885
+SNNP,Wolayita,Sodo Zuria,2017,60,5241,30,0,5331,6995,951,7946
+SNNP,Wolayita,Sodo Zuria,2018,210,7625,55,27,7919,11451,824,12275
+SNNP,Wolayita,Sodo Zuria,2019,0,9515,71,0,9586,12139,325,12465
+SNNP,Wolayita,Sodo Zuria,2020,23,8374,6,0,8404,11368,863,12232
+SNNP,Gurage,East Mesekan,2017,377,312,31,30,752,924,184,1109
+SNNP,Gurage,East Mesekan,2018,376,501,40,16,935,859,190,1049
+SNNP,Gurage,East Mesekan,2019,315,635,4,6,961,979,132,1112
+SNNP,Gurage,East Mesekan,2020,84,314,12,6,417,611,69,681
+SNNP,Amaro,Amaro,2018,0,4406,54,0,4461,6505,436,6942
+SNNP,Amaro,Amaro,2017,50,2814,99,53,3018,4930,1207,6138
+SNNP,Amaro,Amaro,2019,0,5437,1,0,5439,5753,407,6160
+SNNP,Amaro,Amaro,2020,0,4684,7,0,4692,4857,2111,6968
+SNNP,Wolayita,Damot Gale,2018,917,4239,3,47,5208,6731,1012,7744
+SNNP,Wolayita,Damot Gale,2017,854,6161,93,7,7117,7494,1628,9122
+SNNP,Wolayita,Damot Gale,2019,45,7539,0,0,7585,9921,454,10376
+SNNP,Wolayita,Damot Gale,2020,45,5684,229,0,5959,8203,953,9156
+SNNP,South Omo,Bena Tsemay,2017,7,321,23,2,355,568,50,618
+SNNP,South Omo,Bena Tsemay,2018,5,161,4,0,171,856,116,972
+SNNP,South Omo,Bena Tsemay,2020,18,937,1,1,960,1611,27,1638
+SNNP,South Omo,Bena Tsemay,2019,26,1055,0,0,1081,1354,36,1391
+SNNP,Gedeo,Dila Zuria,2018,0,3982,16,0,3999,5194,593,5788
+SNNP,Gedeo,Dila Zuria,2017,34,2229,2,25,2291,3618,234,3853
+SNNP,Gedeo,Dila Zuria,2020,0,3990,0,9,3999,4596,1177,5774
+SNNP,Gedeo,Dila Zuria,2019,13,3470,2,0,3486,4436,112,4548
+SNNP,Wolayita,Boloso Bombe,2017,41,1338,124,22,1526,2039,140,2179
+SNNP,Wolayita,Boloso Bombe,2018,25,1576,53,3,1659,2389,67,2456
+SNNP,Wolayita,Boloso Bombe,2019,0,1097,92,32,1223,1859,48,1907
+SNNP,Wolayita,Boloso Bombe,2020,0,1120,48,39,1208,1518,227,1746
+SNNP,Guraghe,Muhur Na Aklil,2017,81,1033,28,60,1203,2494,362,2857
+SNNP,Guraghe,Muhur Na Aklil,2018,76,2203,31,15,2327,3861,293,4154
+SNNP,Guraghe,Muhur Na Aklil,2019,28,2150,0,0,2179,3364,104,3468
+SNNP,Guraghe,Muhur Na Aklil,2020,0,3346,0,0,3346,4663,180,4844
+SNNP,South Omo,Salamago,2018,0,1245,6,3,1254,1580,3,1583
+SNNP,South Omo,Salamago,2017,119,1009,22,14,1165,1407,116,1523
+SNNP,South Omo,Salamago,2020,0,972,0,0,974,1220,18,1238
+SNNP,South Omo,Salamago,2019,0,902,0,0,902,1103,0,1103
+SNNP,Gofa,Uba Debre Tsehay,2017,0,1893,30,22,1945,1784,384,2169
+SNNP,Gofa,Uba Debre Tsehay,2018,10,1672,24,0,1706,1768,143,1912
+SNNP,Gofa,Uba Debre Tsehay,2019,17,1318,1,0,1338,1352,298,1650
+SNNP,Gofa,Uba Debre Tsehay,2020,8,1409,7,0,1425,1607,267,1874
+SNNP,Hadiya,Mirab Badowach,2018,70,207,8,1,286,928,276,1205
+SNNP,Hadiya,Mirab Badowach,2017,125,115,13,6,262,761,187,948
+SNNP,Hadiya,Mirab Badowach,2020,188,188,22,4,404,934,445,1380
+SNNP,Hadiya,Mirab Badowach,2019,193,333,26,10,564,1362,595,1958
+SNNP,Kembata Tembaro,Hadero Town,2018,0,698,12,0,711,897,150,1048
+SNNP,Kembata Tembaro,Hadero Town,2017,46,1083,17,6,1154,1681,46,1728
+SNNP,Kembata Tembaro,Hadero Town,2020,0,1146,7,1,1155,469,346,816
+SNNP,Kembata Tembaro,Hadero Town,2019,13,758,19,29,820,995,226,1222
+SNNP,South Omo,Hamer,2017,77,1155,45,31,1310,1934,254,2189
+SNNP,South Omo,Hamer,2018,9,1594,14,54,1673,2281,97,2379
+SNNP,South Omo,Hamer,2019,0,2022,0,0,2022,2176,30,2206
+SNNP,South Omo,Hamer,2020,0,2064,4,0,2069,1966,157,2124
+SNNP,Hadiya,Soro,2017,211,4452,45,105,4815,7564,332,7897
+SNNP,Hadiya,Soro,2018,60,4297,40,6,4405,7820,1280,9100
+SNNP,Hadiya,Soro,2019,43,5020,35,13,5112,6672,946,7618
+SNNP,Hadiya,Soro,2020,23,6196,105,23,6349,7233,472,7705
+SNNP,Gedeo,Wenago,2017,64,846,11,1,924,1739,123,1862
+SNNP,Gedeo,Wenago,2018,25,1232,10,0,1268,2040,358,2399
+SNNP,Gedeo,Wenago,2020,78,1874,37,26,2016,2700,708,3409
+SNNP,Gedeo,Wenago,2019,25,2189,26,7,2248,3344,352,3697
+SNNP,Wolayita,Ablala Abaya,2018,0,367,1,0,368,1000,150,1150
+SNNP,Wolayita,Ablala Abaya,2017,28,178,17,3,227,734,244,978
+SNNP,Wolayita,Ablala Abaya,2020,0,694,6,0,700,1203,2,1206
+SNNP,Wolayita,Ablala Abaya,2019,0,276,6,0,283,817,30,848
+SNNP,Wolayita,Gesuba town,2017,0,267,8,1,277,292,139,432
+SNNP,Wolayita,Gesuba town,2018,0,381,10,0,391,420,100,521
+SNNP,Wolayita,Gesuba town,2020,0,370,1,0,371,463,43,506
+SNNP,Wolayita,Gesuba town,2019,0,303,3,0,307,366,5,372
+SNNP,Hadiya,Gombora,2018,721,2009,166,91,2989,4274,1255,5530
+SNNP,Hadiya,Gombora,2017,155,257,25,41,480,1238,383,1621
+SNNP,Hadiya,Gombora,2019,499,2014,200,118,2833,4178,791,4970
+SNNP,Hadiya,Gombora,2020,220,834,55,23,1134,2679,444,3123
+SNNP,Hadiya,East Badawacho,2018,25,5325,64,0,5415,4950,27,4977
+SNNP,Hadiya,East Badawacho,2017,27,1247,40,14,1330,3004,344,3348
+SNNP,Hadiya,East Badawacho,2019,0,4111,0,0,4111,4311,133,4445
+SNNP,Hadiya,East Badawacho,2020,30,3591,0,0,3621,4704,161,4865
+SNNP,South Omo,Jinka town,2017,48,190,6,8,254,712,101,813
+SNNP,South Omo,Jinka town,2018,88,211,18,3,321,1018,99,1118
+SNNP,South Omo,Jinka town,2020,18,443,5,15,482,1212,111,1324
+SNNP,South Omo,Jinka town,2019,126,683,16,32,858,1556,140,1697
+SNNP,Wolayita,Ofa,2017,71,1496,74,31,1674,2019,956,2976
+SNNP,Wolayita,Ofa,2018,44,2886,181,68,3181,3696,402,4099
+SNNP,Wolayita,Ofa,2020,12,4914,304,33,5264,6249,56,6305
+SNNP,Wolayita,Ofa,2019,74,4611,147,42,4874,5764,210,5975
+SNNP,Siltie,Misrak Siltie,2018,0,72,3,0,76,160,28,189
+SNNP,Siltie,Misrak Siltie,2017,0,103,9,6,120,114,65,179
+SNNP,Siltie,Misrak Siltie,2020,0,131,0,0,131,132,3,135
+SNNP,Siltie,Misrak Siltie,2019,2,75,1,0,79,103,17,121
+SNNP,Wolayita,Areka town,2018,696,493,187,158,1535,1998,345,2344
+SNNP,Wolayita,Areka town,2017,768,755,455,460,2439,2227,643,2870
+SNNP,Wolayita,Areka town,2020,459,342,94,85,981,1843,160,2003
+SNNP,Wolayita,Areka town,2019,502,828,106,121,1558,2001,154,2156
+Sidama,Sidama,Loka Abaya,2018,90,454,20,7,572,987,278,1266
+Sidama,Sidama,Loka Abaya,2017,87,527,19,20,654,961,142,1103
+Sidama,Sidama,Loka Abaya,2020,157,681,54,42,936,1605,679,2285
+Sidama,Sidama,Loka Abaya,2019,150,1116,38,14,1319,1946,397,2343
+Sidama,Sidama,Darara,2018,17,25,1,0,45,83,21,105
+Sidama,Sidama,Darara,2017,4,37,2,2,47,84,18,103
+Sidama,Sidama,Darara,2019,4,59,1,0,65,87,19,106
+Sidama,Sidama,Darara,2020,0,26,0,0,27,67,20,88
+Sidama,Sidama,Boricha,2018,0,2877,32,12,2921,4789,43,4832
+Sidama,Sidama,Boricha,2017,12,7549,41,29,7632,10062,212,10274
+Sidama,Sidama,Boricha,2019,0,1498,10,8,1517,2430,46,2476
+Sidama,Sidama,Boricha,2020,0,3840,97,0,3938,7524,150,7674
+Sidama,Sidama,Dara,2017,96,1463,85,19,1665,3274,230,3505
+Sidama,Sidama,Dara,2018,182,4300,767,30,5280,8662,50,8713
+Sidama,Sidama,Dara,2020,75,2097,303,26,2502,6607,446,7053
+Sidama,Sidama,Dara,2019,151,917,81,0,1150,4922,83,5005
+Sidama,Sidama,Hokko,2017,11,29,2,0,44,55,16,72
+Sidama,Sidama,Hokko,2018,5,25,1,0,31,69,8,77
+Sidama,Sidama,Hokko,2020,0,80,0,0,80,126,35,162
+Sidama,Sidama,Hokko,2019,0,36,0,0,37,52,0,52
+Sidama,Sidama,Wondo-Genet,2018,62,1842,43,3,1952,2581,346,2928
+Sidama,Sidama,Wondo-Genet,2017,92,1187,112,35,1427,1744,570,2314
+Sidama,Sidama,Wondo-Genet,2019,14,2420,29,0,2464,3172,10,3182
+Sidama,Sidama,Wondo-Genet,2020,4,1707,5,0,1717,2923,81,3004
+Dire Dawa,Dire Dawa urban,Addis Ketema (DD),2018,546,1828,5,0,2379,2594,899,3494
+Dire Dawa,Dire Dawa urban,Addis Ketema (DD),2017,3197,1277,58,33,4566,4703,894,5598
+Dire Dawa,Dire Dawa urban,Addis Ketema (DD),2020,0,4375,0,0,4375,4993,1810,6804
+Dire Dawa,Dire Dawa urban,Addis Ketema (DD),2019,0,1241,3,0,1244,2393,24,2418
+Dire Dawa,Dire Dawa rural,Wahil,2017,0,777,38,0,816,897,318,1216
+Dire Dawa,Dire Dawa rural,Wahil,2018,1,573,1,1,578,826,198,1024
+Dire Dawa,Dire Dawa rural,Wahil,2019,0,823,24,2,849,1139,282,1421
+Dire Dawa,Dire Dawa rural,Wahil,2020,0,1007,3,0,1010,1364,118,1483
+Dire Dawa,Dire Dawa urban,Gende Kore,2017,16,191,19,0,227,451,78,530
+Dire Dawa,Dire Dawa urban,Gende Kore,2018,11,135,14,11,173,311,51,363
+Dire Dawa,Dire Dawa urban,Gende Kore,2020,0,365,8,0,374,591,90,682
+Dire Dawa,Dire Dawa urban,Gende Kore,2019,12,204,0,0,218,369,85,454
+Dire Dawa,Dire Dawa urban,Sabian,2017,952,242,28,9,1233,2898,280,3178
+Dire Dawa,Dire Dawa urban,Sabian,2018,1828,448,77,21,2377,2673,250,2924
+Dire Dawa,Dire Dawa urban,Sabian,2020,1,1774,38,9,1824,2870,1017,3887
+Dire Dawa,Dire Dawa urban,Sabian,2019,0,1345,55,0,1400,2603,5,2609
+Afar,Kilbati /Zone2,Erebti,2018,0,739,6,0,746,1413,62,1476
+Afar,Kilbati /Zone2,Erebti,2017,11,1428,25,17,1482,1129,125,1255
+Afar,Kilbati /Zone2,Erebti,2019,0,1572,0,0,1572,1955,0,1955
+Afar,Kilbati /Zone2,Erebti,2020,0,1626,0,0,1626,1857,131,1988
+Afar,Awsi /Zone 1,Elidar,2017,81,296,7,3,387,919,131,1050
+Afar,Awsi /Zone 1,Elidar,2018,149,627,31,4,812,1931,392,2324
+Afar,Awsi /Zone 1,Elidar,2019,90,727,107,96,1020,1888,521,2410
+Afar,Awsi /Zone 1,Elidar,2020,43,394,22,13,473,1396,408,1805
+Afar,Awsi /Zone 1,Dubti town,2017,45,843,130,5,1024,1282,51,1334
+Afar,Awsi /Zone 1,Dubti town,2018,35,1018,12,1,1067,1298,14,1312
+Afar,Awsi /Zone 1,Dubti town,2020,0,386,0,0,387,740,25,766
+Afar,Awsi /Zone 1,Dubti town,2019,3,466,9,0,479,940,22,962
+Afar,Awsi /Zone 1,Asayita town,2018,7,106,18,5,138,318,192,510
+Afar,Awsi /Zone 1,Asayita town,2017,10,276,9,7,303,783,126,909
+Afar,Awsi /Zone 1,Asayita town,2019,13,350,45,1,411,526,196,723
+Afar,Awsi /Zone 1,Asayita town,2020,30,565,55,26,677,1166,490,1656
+Afar,Zone 3,Amibara,2018,7,265,0,2,276,476,182,658
+Afar,Zone 3,Amibara,2017,88,1070,5,5,1169,1498,79,1577
+Afar,Zone 3,Amibara,2019,29,589,32,5,657,756,370,1127
+Afar,Zone 3,Amibara,2020,44,1428,23,10,1505,2155,424,2580
+Afar,Gabi /Zone 3,Dulecha,2018,5,345,4,4,360,635,118,754
+Afar,Gabi /Zone 3,Dulecha,2017,6,341,15,4,368,614,66,680
+Afar,Gabi /Zone 3,Dulecha,2019,5,556,15,2,580,800,204,1004
+Afar,Gabi /Zone 3,Dulecha,2020,3,230,12,0,247,469,155,625
+Afar,Hari /Zone 5,Dalefage,2018,94,1331,26,4,1456,2006,106,2113
+Afar,Hari /Zone 5,Dalefage,2017,170,594,41,21,826,1185,100,1285
+Afar,Hari /Zone 5,Dalefage,2020,3,1120,7,0,1131,1279,79,1359
+Afar,Hari /Zone 5,Dalefage,2019,0,1298,9,1,1309,1446,6,1453
+Afar,Awsi /Zone 1,Samera Logiya town,2018,3,293,24,6,328,714,163,878
+Afar,Awsi /Zone 1,Samera Logiya town,2017,10,556,14,22,604,969,205,1174
+Afar,Awsi /Zone 1,Samera Logiya town,2019,17,532,40,9,599,884,151,1035
+Afar,Awsi /Zone 1,Samera Logiya town,2020,0,895,5,0,900,1151,166,1318
+Afar,Awsi /Zone 1,Asayita,2018,0,303,8,0,312,639,48,688
+Afar,Awsi /Zone 1,Asayita,2017,37,1164,23,28,1253,1772,2,1775
+Afar,Awsi /Zone 1,Asayita,2020,0,576,12,0,589,1026,160,1187
+Afar,Awsi /Zone 1,Asayita,2019,22,510,36,48,617,964,64,1029
+Afar,Awsi /Zone 1,Kori,2017,17,633,12,1,664,1224,91,1316
+Afar,Awsi /Zone 1,Kori,2018,5,361,0,0,367,771,35,806
+Afar,Awsi /Zone 1,Kori,2020,6,681,27,0,716,1107,51,1159
+Afar,Awsi /Zone 1,Kori,2019,0,245,5,0,250,461,9,471
+Afar,Fanti /Zone 4,Gulina,2018,7,2018,0,0,2026,2416,79,2496
+Afar,Fanti /Zone 4,Gulina,2017,113,1138,53,33,1339,1846,267,2113
+Afar,Fanti /Zone 4,Gulina,2019,7,1365,40,0,1413,1811,45,1856
+Afar,Fanti /Zone 4,Gulina,2020,0,1752,0,0,1752,2379,168,2548
+Afar,Gabi /Zone 3,Hanruka,2018,8,151,0,0,160,354,95,449
+Afar,Gabi /Zone 3,Hanruka,2017,42,175,18,7,243,423,156,579
+Afar,Gabi /Zone 3,Hanruka,2019,4,358,3,0,366,544,79,624
+Afar,Gabi /Zone 3,Hanruka,2020,0,447,1,0,449,693,30,724
+Afar,Kilbati /Zone2,Bidu,2018,3,27,0,0,32,156,26,182
+Afar,Kilbati /Zone2,Bidu,2017,8,190,5,5,210,344,26,370
+Afar,Kilbati /Zone2,Bidu,2019,3,18,3,0,25,122,17,139
+Afar,Kilbati /Zone2,Bidu,2020,0,139,7,0,147,436,19,455
+Afar,Gabi /Zone 3,Awash,2018,0,741,15,0,757,737,13,751
+Afar,Gabi /Zone 3,Awash,2017,22,666,10,4,704,723,26,749
+Afar,Gabi /Zone 3,Awash,2020,10,678,4,1,694,820,6,827
+Afar,Gabi /Zone 3,Awash,2019,1,495,1,0,498,479,11,491
+Gambela,Majang,Mengesh,2017,19,53,2,1,76,126,14,140
+Gambela,Majang,Mengesh,2018,109,151,25,10,297,207,51,259
+Gambela,Majang,Mengesh,2020,37,89,17,2,146,278,125,404
+Gambela,Majang,Mengesh,2019,58,111,22,4,197,182,48,230
+Gambela,Nuwer,Akobo,2018,215,336,10,4,566,568,275,844
+Gambela,Nuwer,Akobo,2017,154,500,33,2,690,920,281,1201
+Gambela,Nuwer,Akobo,2020,15,702,22,0,741,1046,58,1105
+Gambela,Nuwer,Akobo,2019,31,437,24,9,503,1075,204,1280
+Gambela,Agnewak,Jore,2018,5,242,14,1,264,340,27,368
+Gambela,Agnewak,Jore,2017,7,189,4,0,201,357,35,393
+Gambela,Agnewak,Jore,2020,3,224,20,0,248,275,25,300
+Gambela,Agnewak,Jore,2019,3,203,17,0,224,214,3,217
+Gambela,Agnewak,Gambela Zuria,2018,0,361,0,0,362,445,105,550
+Gambela,Agnewak,Gambela Zuria,2017,19,284,3,0,307,391,112,504
+Gambela,Agnewak,Gambela Zuria,2019,0,219,0,0,219,297,26,323
+Gambela,Agnewak,Gambela Zuria,2020,25,242,34,11,313,362,62,424
+Gambela,Nuwer,Jikawo,2018,11,293,5,1,312,494,115,610
+Gambela,Nuwer,Jikawo,2017,28,389,9,5,432,656,171,828
+Gambela,Nuwer,Jikawo,2020,4,417,6,1,429,857,198,1055
+Gambela,Nuwer,Jikawo,2019,10,414,4,0,430,758,114,873
+Gambela,Itang Special woreda,Itang,2018,5,1052,0,4,1063,1462,9,1472
+Gambela,Itang Special woreda,Itang,2017,23,765,23,7,819,1237,47,1285
+Gambela,Itang Special woreda,Itang,2019,0,1244,3,1,1249,1671,3,1675
+Gambela,Itang Special woreda,Itang,2020,0,1450,0,0,1450,2044,23,2067
+Harari,Harari,Aboker,2017,1,21,1,0,25,47,6,54
+Harari,Harari,Aboker,2018,0,33,0,0,34,67,12,80
+Harari,Harari,Aboker,2020,0,35,4,0,40,54,10,64
+Harari,Harari,Aboker,2019,0,25,1,0,27,42,6,49
+Harari,Harari,Erer (HR),2018,175,3274,100,0,3549,4080,933,5014
+Harari,Harari,Erer (HR),2017,234,3975,160,163,4534,5597,619,6217
+Harari,Harari,Erer (HR),2019,142,4581,23,35,4783,5430,439,5870
+Harari,Harari,Erer (HR),2020,97,4743,62,0,4903,6253,368,6621
+Harari,Harari,Abadir,2018,15,2759,16,0,2792,3490,129,3619
+Harari,Harari,Abadir,2017,150,2238,15,201,2605,3712,134,3847
+Harari,Harari,Abadir,2020,3,1608,0,5,1617,2170,76,2247
+Harari,Harari,Abadir,2019,3,2173,114,0,2291,2795,19,2814
+Harari,Harari,Shenkor,2017,15,33,0,2,51,94,14,108
+Harari,Harari,Shenkor,2018,5,19,0,0,25,74,26,100
+Harari,Harari,Shenkor,2020,0,15,0,1,16,49,7,56
+Harari,Harari,Shenkor,2019,2,17,0,0,19,62,14,77
+Addis Ababa,Region 14,Lemi Kura,2017,31,1546,47,2,1628,2548,289,2837
+Addis Ababa,Region 14,Lemi Kura,2018,0,1798,74,6,1880,2341,432,2774
+Addis Ababa,Region 14,Lemi Kura,2019,0,619,75,18,713,1100,164,1264
+Addis Ababa,Region 14,Lemi Kura,2020,0,2847,162,10,3020,3686,291,3977
