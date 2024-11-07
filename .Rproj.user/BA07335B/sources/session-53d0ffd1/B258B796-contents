@@ -19,10 +19,16 @@ gitcreds::gitcreds_set()
 install.packages(c("dplyr", "lubridate", "tidyverse"))
 
 
+
+usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
+
 usethis::use_github(
   organisation = "PATH-Global-Health", 
   visibility = "public"
 ) 
+
+usethis::use_github_pages(branch = "gh-pages", cname = NA)
+
 
 
 usethis::use_github_pages(branch = "gh-pages")
