@@ -2,14 +2,13 @@ project:
   type: book
 
 book:
-  title: "secondary_data_modules"
+  title: "Secondary data modules"
   author: "Amir Siraj"
   date: "10/30/2024"
   chapters:
     - index.qmd
     - module_01.qmd
-    - intro.qmd
-    - references.qmd
+    - module_02.qmd
 
 bibliography: references.bib
 
