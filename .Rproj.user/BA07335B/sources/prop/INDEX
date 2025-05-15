@@ -1,3 +1,4 @@
+C%3A%2FUsers%2Fasiraj%2FBox%2FEthiopia%20model%2Fdata_pipeline%2F00_initial_setup.R="DF7ADE22"
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2FETH_Stephensi_PMI%2Fscripts%2F01_b_CASES_v7_Apr_2023.R="611CFB06"
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2FETH_model_data%2Fstratification%2Fscripts%2F01_a_CONFIRMED_CASES_v7_Apr_2023.R="9A62C28B"
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2FETH_model_data%2Fstratification%2Fscripts%2F01_a_PRESUMED_CASES_v6_Jan_2023.R="2E13A1FC"
@@ -5,6 +6,7 @@ C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2FETH_model_data%2Fstratification%2Fscript
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2FETH_model_data%2Fstratification%2Fscripts%2F01_a_TPR_v6_Jan_2023.R="4D625BE2"
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2FETH_model_data%2Fstratification%2Fscripts%2F01_c_presumed_cases.R="4207BD51"
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2FETH_resurgence%2Fscripts%2F03_d_dhis2_data_fill_species_vs_posiives.R="E0DDA70E"
+C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2Fdata_fellowship%2Fscripts%2F00_initial_setup_git_credentials.R="914066BF"
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2Fdata_fellowship%2Fscripts%2F01_create_mock_llin_mass_campain_dara.R="40B7BB03"
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2Fdata_fellowship%2Fscripts%2F09_publish_quatro_version.R="9BCD1E6E"
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2Fdata_fellowship%2Fsecondary_data_modules%2F.github%2Fworkflows%2Fquarto-publish.yml="FE2ECBBB"
@@ -17,3 +19,4 @@ C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2Fdata_fellowship%2Fsecondary_data_modules
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2Fdata_fellowship%2Fsecondary_data_modules_old%2Findex.qmd="65D72496"
 C%3A%2FUsers%2Fasiraj%2FBox%2FWorking%2Fdata_fellowship%2Fsecondary_data_modules_old%2Fmodule_01.qmd="98E684D2"
 C%3A%2FUsers%2Fasiraj%2FBox%2Fsnt-2025%2Fdrc%2F03.calibration%2F01.scripts%2F04.calibrate.R="D62F1600"
+~%2F.Renviron="4035ED1A"
