@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Secondary data modules"
+  title: "Secondary Malaria Data Sources"
   author: "Amir Siraj"
   date: "10/30/2024"
   chapters:
