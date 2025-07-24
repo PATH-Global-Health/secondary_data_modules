@@ -405,7 +405,7 @@ generating LLINs per population (as an indicator of access to LLIN).
 \NormalTok{mllin\_pop}\SpecialCharTok{|\textgreater{}} 
     \FunctionTok{filter}\NormalTok{(llin\_per\_person}\SpecialCharTok{\textgreater{}}\DecValTok{0}\NormalTok{) }\SpecialCharTok{|\textgreater{}}
     \FunctionTok{ggplot}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{x=}\NormalTok{year, }\AttributeTok{y =}\NormalTok{ llin\_per\_person)) }\SpecialCharTok{+}
-    \FunctionTok{facet\_wrap}\NormalTok{ (}\SpecialCharTok{\textasciitilde{}} \FunctionTok{paste0}\NormalTok{(region, }\StringTok{"{-}"}\NormalTok{, zone, }\StringTok{"{-}"}\NormalTok{, district)) }\SpecialCharTok{+}
+    \FunctionTok{facet\_wrap}\NormalTok{ (}\SpecialCharTok{\textasciitilde{}}\NormalTok{ district) }\SpecialCharTok{+}
     \FunctionTok{geom\_point}\NormalTok{()}
 \end{Highlighting}
 \end{Shaded}
@@ -540,8 +540,7 @@ override using the `.groups` argument.
 \NormalTok{rllin\_pop}\SpecialCharTok{|\textgreater{}} 
   \FunctionTok{ggplot}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{x=}\NormalTok{year, }
              \AttributeTok{y =}\NormalTok{ llin\_per\_u5)) }\SpecialCharTok{+}
-  \FunctionTok{facet\_wrap}\NormalTok{ (}\SpecialCharTok{\textasciitilde{}} \FunctionTok{paste0}\NormalTok{(region, }\StringTok{"{-}"}\NormalTok{, }
-\NormalTok{                       zone, }\StringTok{"{-}"}\NormalTok{, district)) }\SpecialCharTok{+}
+  \FunctionTok{facet\_wrap}\NormalTok{ (}\SpecialCharTok{\textasciitilde{}}\NormalTok{ district) }\SpecialCharTok{+}
   \FunctionTok{geom\_point}\NormalTok{()}
 \end{Highlighting}
 \end{Shaded}
@@ -593,7 +592,7 @@ individuals in the population.
 \DocumentationTok{\#\# visualize}
 \NormalTok{llin\_access}\SpecialCharTok{|\textgreater{}} 
   \FunctionTok{ggplot}\NormalTok{(}\FunctionTok{aes}\NormalTok{(}\AttributeTok{x=}\NormalTok{year, }\AttributeTok{y =}\NormalTok{ inc\_prop\_access)) }\SpecialCharTok{+}
-  \FunctionTok{facet\_wrap}\NormalTok{ (}\SpecialCharTok{\textasciitilde{}} \FunctionTok{paste0}\NormalTok{(region, }\StringTok{"{-}"}\NormalTok{, zone, }\StringTok{"{-}"}\NormalTok{, district)) }\SpecialCharTok{+}
+  \FunctionTok{facet\_wrap}\NormalTok{ (}\SpecialCharTok{\textasciitilde{}}\NormalTok{ district) }\SpecialCharTok{+}
   \FunctionTok{geom\_point}\NormalTok{()}
 \end{Highlighting}
 \end{Shaded}
@@ -1021,7 +1020,7 @@ $timeout
 $data_frame
 function (x) 
 x
-<bytecode: 0x0000027dab53a650>
+<bytecode: 0x000001a44f149650>
 <environment: namespace:base>
 
 $project_choice

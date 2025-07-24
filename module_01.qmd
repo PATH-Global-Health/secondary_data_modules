@@ -73,7 +73,7 @@ population_long<- population |>
 mllin_pop|> 
     filter(llin_per_person>0) |>
     ggplot(aes(x=year, y = llin_per_person)) +
-    facet_wrap (~ paste0(region, "-", zone, "-", district)) +
+    facet_wrap (~ district) +
     geom_point()
   
   ggsave(filename = "plots/llin_mass.tiff",
@@ -146,8 +146,7 @@ rllin_pop <-   routine_llin_long |>
 rllin_pop|> 
   ggplot(aes(x=year, 
              y = llin_per_u5)) +
-  facet_wrap (~ paste0(region, "-", 
-                       zone, "-", district)) +
+  facet_wrap (~ district) +
   geom_point()
   
  ggsave(filename = "plots/llin_routine.tiff",
@@ -179,7 +178,7 @@ llin_access<- mllin_pop |>
 ## visualize
 llin_access|> 
   ggplot(aes(x=year, y = inc_prop_access)) +
-  facet_wrap (~ paste0(region, "-", zone, "-", district)) +
+  facet_wrap (~ district) +
   geom_point()
 
 ggsave(filename = "plots/llin_access_increment.tiff",
