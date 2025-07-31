@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.54">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -71,10 +71,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8da5b4427184b79ecddefad3d342027e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -206,7 +206,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Insecticide-treated bed nets (ITNs) are a form of personal protection that can reduce the risk of malaria illness, severe disease, and death. In community-wide trials in several African settings, ITNs reduced the death of children under 5 years from all causes by about 20%. ITNs repel, kill, or sterilize mosquitoes that come into contact with the insecticides or other active ingredients impregnated on the netting material. ITNs also have a community effect where members of the community (not just those who sleep under a net) may have some protection when a large proportion of the community uses ITNs.&nbsp;The effectiveness of ITNs diminishes over time due to physical damage, deteriorating chemical integrity, or bio-efficacy (i.e., through the development of insecticide resistance).&nbsp; Long-lasting insecticidal net (LLIN) is a special type of ITN that stays effective for a longer time (~ 3 years) before replacement, without a need for reimpregnation with insecticide.&nbsp;</p>
 <section id="itn-distribution-data" class="level1" data-number="2">
 <h1 data-number="2"><span class="header-section-number">2</span> <strong>ITN distribution data</strong></h1>
-<p>For seceral decades, ITNs and LLINs have been delivered to malaria-endemic countries through various global or local initiatives and programs. National Malaria Control Programs (NMCPs) in endemic countries coordinate the distribution of bed nets to target populations.&nbsp; In most countries, ITN distributions are mainly carried out in two formats:</p>
+<p>For decades, ITNs and LLINs have been delivered to malaria-endemic countries through various global or local initiatives and programs. National Malaria Control Programs (NMCPs) in endemic countries coordinate the distribution of bed nets to target populations.&nbsp; In most countries, ITN distributions are mainly carried out in two formats:</p>
 <ul>
 <li><p><strong>Mass ITN campaign</strong>: is a cost-effective way of rapidly achieving high and equitable vector control coverages. ITN campaigns are done once every few years targeting all or a cohort of population at each round (usually districts but can be at lower administrative units too), They aim to provide a proportion of the population in the target districts with new ITNs at a regular interval (ideally every 3 years).</p></li>
 <li><p><strong>Routine programs</strong>: Routine antenatal and immunization services program provides a cost-effective means to reach out to communities at a higher risk of malaria transmission including children and mothers. Programs keep stocks of ITNs which they dispense to beneficiaries along with their routine services.</p>
@@ -226,7 +226,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 ✔ forcats   1.0.0     ✔ stringr   1.5.1
 ✔ ggplot2   3.5.2     ✔ tibble    3.3.0
 ✔ lubridate 1.9.4     ✔ tidyr     1.3.1
-✔ purrr     1.0.4     
+✔ purrr     1.1.0     
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
@@ -293,7 +293,7 @@ dbl (4): pop_2017, pop_2018, pop_2019, pop_2020
 <span id="cb8-29"><a href="#cb8-29" aria-hidden="true" tabindex="-1"></a>mllin_pop<span class="sc">|&gt;</span> </span>
 <span id="cb8-30"><a href="#cb8-30" aria-hidden="true" tabindex="-1"></a>    <span class="fu">filter</span>(llin_per_person<span class="sc">&gt;</span><span class="dv">0</span>) <span class="sc">|&gt;</span></span>
 <span id="cb8-31"><a href="#cb8-31" aria-hidden="true" tabindex="-1"></a>    <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x=</span>year, <span class="at">y =</span> llin_per_person)) <span class="sc">+</span></span>
-<span id="cb8-32"><a href="#cb8-32" aria-hidden="true" tabindex="-1"></a>    <span class="fu">facet_wrap</span> (<span class="sc">~</span> <span class="fu">paste0</span>(region, <span class="st">"-"</span>, zone, <span class="st">"-"</span>, district)) <span class="sc">+</span></span>
+<span id="cb8-32"><a href="#cb8-32" aria-hidden="true" tabindex="-1"></a>    <span class="fu">facet_wrap</span> (<span class="sc">~</span> district) <span class="sc">+</span></span>
 <span id="cb8-33"><a href="#cb8-33" aria-hidden="true" tabindex="-1"></a>    <span class="fu">geom_point</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
 <div>
@@ -385,9 +385,8 @@ override using the `.groups` argument.</code></pre>
 <span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a>rllin_pop<span class="sc">|&gt;</span> </span>
 <span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x=</span>year, </span>
 <span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a>             <span class="at">y =</span> llin_per_u5)) <span class="sc">+</span></span>
-<span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span> (<span class="sc">~</span> <span class="fu">paste0</span>(region, <span class="st">"-"</span>, </span>
-<span id="cb17-6"><a href="#cb17-6" aria-hidden="true" tabindex="-1"></a>                       zone, <span class="st">"-"</span>, district)) <span class="sc">+</span></span>
-<span id="cb17-7"><a href="#cb17-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span> (<span class="sc">~</span> district) <span class="sc">+</span></span>
+<span id="cb17-6"><a href="#cb17-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
@@ -423,7 +422,7 @@ override using the `.groups` argument.</code></pre>
 <span id="cb19-11"><a href="#cb19-11" aria-hidden="true" tabindex="-1"></a><span class="do">## visualize</span></span>
 <span id="cb19-12"><a href="#cb19-12" aria-hidden="true" tabindex="-1"></a>llin_access<span class="sc">|&gt;</span> </span>
 <span id="cb19-13"><a href="#cb19-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x=</span>year, <span class="at">y =</span> inc_prop_access)) <span class="sc">+</span></span>
-<span id="cb19-14"><a href="#cb19-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span> (<span class="sc">~</span> <span class="fu">paste0</span>(region, <span class="st">"-"</span>, zone, <span class="st">"-"</span>, district)) <span class="sc">+</span></span>
+<span id="cb19-14"><a href="#cb19-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span> (<span class="sc">~</span> district) <span class="sc">+</span></span>
 <span id="cb19-15"><a href="#cb19-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
 <div>
@@ -531,8 +530,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -643,7 +640,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
