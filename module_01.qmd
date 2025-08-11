@@ -7,7 +7,7 @@ Insecticide-treated bed nets (ITNs) are a form of personal protection that can r
 
 # **ITN distribution data**
 
-For seceral decades, ITNs and LLINs have been delivered to malaria-endemic countries through various global or local initiatives and programs. National Malaria Control Programs (NMCPs) in endemic countries coordinate the distribution of bed nets to target populations.  In most countries, ITN distributions are mainly carried out in two formats:
+For decades, ITNs and LLINs have been delivered to malaria-endemic countries through various global or local initiatives and programs. National Malaria Control Programs (NMCPs) in endemic countries coordinate the distribution of bed nets to target populations.  In most countries, ITN distributions are mainly carried out in two formats:
 
 -   **Mass ITN campaign**: is a cost-effective way of rapidly achieving high and equitable vector control coverages. ITN campaigns are done once every few years targeting all or a cohort of population at each round (usually districts but can be at lower administrative units too), They aim to provide a proportion of the population in the target districts with new ITNs at a regular interval (ideally every 3 years).
 
